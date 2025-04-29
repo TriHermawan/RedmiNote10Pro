@@ -37,6 +37,15 @@ Released March 2021
  - [Mi Unlock Tools](#mi-unlock-tools)
  - [Relock Bootloader](#relock-bootloader)
  - [Mi Flash Tool](#miflash-tool)
+ - [ADB & Fastboot](#adb--fastboot)
+ - [Erase System Dynamic Partition](#erase-system-dynamic-partition)
+ - [Custom Recovery](#custom-recovery)
+ - [Install TWRP (Permanent) MIUI](#install-twrp-permanent-miui)
+ - [Install ROM](#install-rom)
+ - [GApps (Google Apps)](#gapps-google-apps)
+ - [Root](#root)
+ - [Play Integrity Fix](#play-integrity-fix)
+ - [KernelSU-Next]()
  - 
 
 ---
@@ -497,10 +506,10 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 - [PIF](https://github.com/chiteroman/PlayIntegrityFix) by [chiteroman](https://github.com/chiteroman)
 - [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork) by [osm0sis](https://github.com/osm0sis/PlayIntegrityFork)
 
-## **KernelSU-Next Redmi Note 10 Pro/Max**
+## **KernelSU-Next**
 - [Ventur's Playground](https://t.me/venturplayground)
 
-## **How to Pass Strong Integrity & Use Bank Apps**
+## **Pass Strong Integrity**
 - [Method 01](https://gist.github.com/shamxl/b14149ac542864779af4bceb4d6e28bb#file-hiderootandpassstrong-md) by [shamxl](https://gist.github.com/shamxl)
 
 
