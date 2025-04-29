@@ -33,6 +33,7 @@ Released March 2021
  - [Forum](#forum)
  - [Download MIUI Official ROMs](#download-miui-official-roms)
  - [MIUI Debloated](#miui-debloated)
+ - [Xiaomi Debloat Tool](#xiaomi-debloat-tool)
  - [Mi Unlock Tools](#mi-unlock-tools)
  - [Relock Bootloader](#relock-bootloader)
  - [MiFlash Tool](#miflash-tool)
@@ -291,6 +292,11 @@ Redmi Note 10 Pro / Pro Max India
 
 </details>
 
+## Xiaomi Debloat Tool
+
+- JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
+- [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing)
+
 
 
 ## Mi Unlock Tools
@@ -336,12 +342,6 @@ Redmi Note 10 Pro / Pro Max India
 |---------|------|
 | ```20181115``` | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20181115.zip?a=view) |
 | ```20200314``` | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20200314.zip?a=view) |
-  
-
-## Xiaomi Debloat Tool
-
-- JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
-- [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing)
 
 ## ADB & Fastboot
 - [ADB](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view) (Windows)
