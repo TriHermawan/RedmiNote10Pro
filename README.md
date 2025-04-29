@@ -45,7 +45,10 @@ Released March 2021
  - [GApps (Google Apps)](#gapps-google-apps)
  - [Root](#root)
  - [Play Integrity Fix](#play-integrity-fix)
- - [KernelSU-Next]()
+ - [KernelSU-Next](#kernelsu-next)
+ - [Pass Strong Integrity](#pass-strong-integrity)
+ - [Custom ROM (sweet/sweetin)](#custom-rom-sweetsweetin)
+ - [Optional](#optional)
  - 
 
 ---
