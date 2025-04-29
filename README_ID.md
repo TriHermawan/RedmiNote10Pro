@@ -7,7 +7,7 @@
 
 ![](assets/sweet.png)
 
-# Xiaomi Redmi Note 10 Pro (sweet) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_logo_%282021-%29.svg/512px-Xiaomi_logo_%282021-%29.svg.png" alt="Alt Text" width="30" height="30">
+# Xiaomi Redmi Note 10 Pro (sweet) <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_logo_%282021-%29.svg/512px-Xiaomi_logo_%282021-%29.svg.png" alt="Alt Text" width="30" height="30"> -->
 Released March 2021
 
 |  | Spesification |
@@ -30,7 +30,16 @@ Released March 2021
 
 ---
 
-# MIUI Official ROMs Archive | Redmi Note 10 Pro (sweet)
+## Download MIUI Official ROMs
+
+```
+Device   : Redmi Note 10 Pro
+Codename : sweet
+----------------------------------
+Device   : Redmi Note 10 Pro Max
+Codename : sweetin
+Region   : India
+```
 
 >[!WARNING]
 >Pastikan untuk mengunduh firmware yang sesuai dengan model ponsel kamu. kamu dapat mengetahui model ponsel kamu dari Setelan > Tentang ponsel > Versi MIUI (Misalnya: Dalam versi MIUI `V14.0.9.0.TKFMIXM` ‘<ins>**MI**</ins>’ mewakili wilayah ponsel kamu, yaitu <ins>**Global**</ins>).
@@ -178,7 +187,16 @@ Redmi Note 10 Pro / Pro Max India
 </details>
 
 
-## Firmware for Redmi Note 10 Pro
+## Firmware
+
+```
+Device   : Redmi Note 10 Pro
+Codename : sweet
+----------------------------------
+Device   : Redmi Note 10 Pro Max
+Codename : sweetin
+Region   : India
+```
 
 | Firmware Only | Size | Firmware + Vendor | Size |
 | :---:| :---: | :---: | :---: |
@@ -189,7 +207,7 @@ Redmi Note 10 Pro / Pro Max India
 ## MIUI Debloated
 
 > [!NOTE]
-> Pastikan komputer kamu telah terinstal [`adb-fastboot (drivers)`](https://github.com/TriHermawan/faultx-miui-tools#adb--fastboot-windows) dengan benar.
+> Pastikan komputer kamu telah terinstal [`adb-fastboot (drivers)`](./README.md#adb--fastboot-driver) dengan benar.
 
   <details>
 
@@ -272,14 +290,14 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 |  | [Mirror](https://t.me/faultx003) |
 
 
-## Mi Unlock Tools (For Unlock Bootloader)
+## Mi Unlock Tools
 
 > [!CAUTION]
 > Membuka kunci bootloader akan <ins>**menghapus semua data**</ins> pada perangkat kamu! Sebelum melanjutkan, pastikan data yang ingin kamu simpan telah <ins>**dicadangkan**</ins> ke PC atau akun Google kamu, atau yang setara.
 
 - [Download](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view)
 
-## Relock / Lock Bootloader 
+## Relock Bootloader 
 
 > [!WARNING]
 > - Relock/Lock Bootloader akan menghapus data kamu (reset pabrik).
@@ -289,7 +307,7 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 > - Cadangkan semua data kamu terlebih dahulu.
 > - Isi daya baterai kamu minimal 50%.
 
-### Steps to Relock the Bootloader
+## Steps to Relock the Bootloader
 
 1. Install Official MIUI Fastboot ROM:
    - [Download](https://github.com/TriHermawan/faultx-miui-tools/tree/main#miui-official-roms-archive--redmi-note-10-pro-sweet) versi **fastboot** dari ROM MIUI untuk perangkat kamu (format `.tgz`). Gunakan ini untuk memastikan sistem kamu bersih dan resmi.
@@ -321,9 +339,12 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 - JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
 - [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing)
 
-## ADB & Fastboot Driver (Windows)
-- [ADB](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view)
-- [Platform-tools](https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip)
+## ADB & Fastboot
+- [ADB](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view) (Windows)
+- Lastest Android platform tools
+  - [Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+  - [macOS](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)
+  - [Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip)
 
 ## Erase System Dynamic Partition
 
@@ -355,7 +376,7 @@ Jalankan perintah ini (cmd-windows):
 ## Install TWRP (Permanent) MIUI
 
 > [!NOTE]
-> Pastikan komputer kamu telah menginstal [`adb-fastboot (drivers)`](https://github.com/TriHermawan/faultx-miui-tools#adb--fastboot-windows) dengan benar.
+> Pastikan komputer kamu telah menginstal [`adb-fastboot (drivers)`](./README.md#adb--fastboot-driver) dengan benar.
 
 <details>
   <summary>Step to Install</summary>
@@ -384,7 +405,8 @@ Lalu tekan Enter. Pastikan `device ID` kamu muncul, yang berarti perangkat kamu 
   
 </details>
 
-## Install ROM Official MIUI / Custom ROM AOSP via Custom Recovery
+## Install ROM 
+Install Official MIUI / Custom ROM AOSP via Custom Recovery
 
 > [!WARNING]
 > - Cadangkan semua data kamu terlebih dahulu.
@@ -443,7 +465,7 @@ Lalu tekan Enter. Pastikan `device ID` kamu muncul, yang berarti perangkat kamu 
 </details>
 
 
-## GApps (Google Apps) ![](https://img.icons8.com/fluency/30/google-play-store-new.png)
+## GApps (Google Apps) <!-- ![](https://img.icons8.com/fluency/30/google-play-store-new.png) -->
 
 > [!CAUTION]
 > Pastikan untuk menginstal paket GApps yang sesuai dengan versi OS Android perangkat kamu.  
@@ -456,24 +478,24 @@ Architecture: `arm64`.
 |BiTGApps| [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) |
 
 
-## Root `[#]`
+## Root
 
 - [Magisk](https://github.com/topjohnwu/Magisk/releases) Official by [topjohnwu](https://github.com/topjohnwu) 
 
-#### **PlayIntegrityFix**
+## **PlayIntegrityFix**
 This module tries to fix Play Integrity and SafetyNet verdicts to get a valid attestation.
 
 - [PIF](https://github.com/chiteroman/PlayIntegrityFix) by [chiteroman](https://github.com/chiteroman)
 - [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork) by [osm0sis](https://github.com/osm0sis/PlayIntegrityFork)
 
-#### **KernelSU-Next Redmi Note 10 Pro/Max**
+## **KernelSU-Next Redmi Note 10 Pro/Max**
 - [Ventur's Playground](https://t.me/venturplayground)
 
-#### **How to Pass Strong Integrity & Use Bank Apps**
+## **How to Pass Strong Integrity & Use Bank Apps**
 - [Method 01](https://gist.github.com/shamxl/b14149ac542864779af4bceb4d6e28bb#file-hiderootandpassstrong-md) by [shamxl](https://gist.github.com/shamxl)
 
 
-## Custom ROM
+## Custom ROM (sweet/sweetin)
 
 <details>
 
