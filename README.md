@@ -27,7 +27,13 @@ Released March 2021
 | Dimensions | 164 mm (6.46 in) (h), 76.5 mm (3.01 in) (w), 8.1 mm (0.32 in) (d) |
 | Battery | Non-removable Li-Po 5020 mAh |
 
+
+## Table of Contents
+ - [Spesification](.#xiaomi-redmi-note-10-pro-sweet)
+ - 
+
 ---
+
 
 ## Download MIUI Official ROMs
 
