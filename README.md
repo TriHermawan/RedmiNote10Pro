@@ -29,8 +29,9 @@ Released March 2021
 
 
 ## Table of Contents
- - [Spesification](.#xiaomi-redmi-note-10-pro-sweet)
- - 
+ - [Spesification](#xiaomi-redmi-note-10-pro-sweet)
+ - [Download MIUI Official ROMs](#download-miui-official-roms)
+ - [Firmware](#firmware)
 
 ---
 
