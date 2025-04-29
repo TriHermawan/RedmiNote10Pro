@@ -10,7 +10,7 @@
 Released March 2021
 
 |  | Spesification |
-|---|:---:|
+|---|---|
 | SoC | Qualcomm SM7150-AC Snapdragon 732G |
 | RAM | 6/8 GB |
 | CPU | Octa-core Kryo 470 2 x  2.3 GHz + 6 x 1.8 GHz |
