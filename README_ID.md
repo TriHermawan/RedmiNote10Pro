@@ -7,7 +7,8 @@
 
 ![](assets/sweet.png)
 
-# Xiaomi Redmi Note 10 Pro (sweet) <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_logo_%282021-%29.svg/512px-Xiaomi_logo_%282021-%29.svg.png" alt="Alt Text" width="30" height="30"> -->
+# Xiaomi Redmi Note 10 Pro (sweet) 
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_logo_%282021-%29.svg/512px-Xiaomi_logo_%282021-%29.svg.png" alt="Alt Text" width="30" height="30"> -->
 Released March 2021
 
 |  | Spesification |
@@ -28,7 +29,40 @@ Released March 2021
 | Dimensions | 164 mm (6.46 in) (h), 76.5 mm (3.01 in) (w), 8.1 mm (0.32 in) (d) |
 | Battery | Non-removable Li-Po 5020 mAh |
 
+## Table of Contents
+ - [Spesification](#xiaomi-redmi-note-10-pro-sweet)
+ - [Forum](#forum)
+ - [Download MIUI Official ROMs](#download-miui-official-roms)
+ - [MIUI Debloated](#miui-debloated)
+ - [Xiaomi Debloat Tool](#xiaomi-debloat-tool)
+ - [Mi Unlock Tools](#mi-unlock-tools)
+ - [Relock Bootloader](#relock-bootloader)
+ - [Mi Flash Tool](#miflash-tool)
+ - [ADB & Fastboot](#adb--fastboot)
+ - [Erase System Dynamic Partition](#erase-system-dynamic-partition)
+ - [Custom Recovery](#custom-recovery)
+ - [Install TWRP (Permanent) MIUI](#install-twrp-permanent-miui)
+ - [Firmware](#firmware)
+ - [Install ROM](#install-rom)
+ - [GApps (Google Apps)](#gapps-google-apps)
+ - [Root](#root)
+ - [Play Integrity Fix](#play-integrity-fix)
+ - [Pass Strong Integrity](#pass-strong-integrity)
+ - [Custom ROM (sweet/sweetin)](#custom-rom-sweetsweetin)
+ - [Optional](#optional)
+
 ---
+
+## Forum
+XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.12117/)
+
+| Telegram Group | Telegram Channel |
+| --- | --- |
+| [Indonesia](https://t.me/RedmiNote10ProID) | [Indonesia](https://t.me/RedmiNote10ProIDUpdate) |
+| [Global](https://t.me/RedmiNote10ProDiscussion) | [Global](https://t.me/RedmiNote10ProChannel) |
+| [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography) | [GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel) |
+|  | [Mirror](https://t.me/faultx003) |
+
 
 ## Download MIUI Official ROMs
 
@@ -186,24 +220,6 @@ Redmi Note 10 Pro / Pro Max India
 
 </details>
 
-
-## Firmware
-
-```
-Device   : Redmi Note 10 Pro
-Codename : sweet
-----------------------------------
-Device   : Redmi Note 10 Pro Max
-Codename : sweetin
-Region   : India
-```
-
-| Firmware Only | Size | Firmware + Vendor | Size |
-| :---:| :---: | :---: | :---: |
-| [Download](https://t.me/faultx003/223) | ```80 MB±``` | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) | ```700 MB±``` |
-
-
-
 ## MIUI Debloated
 
 > [!NOTE]
@@ -278,17 +294,9 @@ Region   : India
 
 </details>
 
-## Forum
-
-XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.12117/)
-
-| Telegram Group | Telegram Channel |
-| --- | --- |
-| [Indonesia](https://t.me/RedmiNote10ProID) | [Indonesia](https://t.me/RedmiNote10ProIDUpdate) |
-| [Global](https://t.me/RedmiNote10ProDiscussion) | [Global](https://t.me/RedmiNote10ProChannel) |
-| [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography) | [GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel) |
-|  | [Mirror](https://t.me/faultx003) |
-
+## Xiaomi Debloat Tool
+- JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
+- [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing)
 
 ## Mi Unlock Tools
 
@@ -327,17 +335,11 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 
 8. Klik **Flash** dan tunggu prosesnya selesai.
 
-
 ## MiFlash Tool
 | Version | Link |
 |---------|------|
 | ```20181115``` | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20181115.zip?a=view) |
 | ```20200314``` | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20200314.zip?a=view) |
-  
-
-## Xiaomi Debloat Tool
-- JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
-- [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing)
 
 ## ADB & Fastboot
 - [ADB](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view) (Windows)
@@ -360,7 +362,6 @@ Jalankan perintah ini (cmd-windows):
 - `fastboot remove system`
 </details>
 
-
 ## Custom Recovery
 
 | Android Version | Recovery | Maintainer | Link |
@@ -371,7 +372,6 @@ Jalankan perintah ini (cmd-windows):
 | 12 - 13 | TWRP Unofficial | Aryan | [Download](https://sourceforge.net/projects/twrp-releases/files/Sweet/) |
 | 12 - 13 | OrangeFox Unofficial | Aryan | [Download](https://sourceforge.net/projects/orangefox-releases/files/sweet/) |
 | 14 - 15 | OrangeFox Unofficial | Aryan | [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/) |
-
 
 ## Install TWRP (Permanent) MIUI
 
@@ -402,8 +402,22 @@ Lalu tekan Enter. Pastikan `device ID` kamu muncul, yang berarti perangkat kamu 
 9. Setelah kamu berada di TWRP, flash file `OrangeFox (.zip)` yang kamu simpan ke SDCard.
 10. Selesai!
 
-  
 </details>
+
+## Firmware
+
+```
+Device   : Redmi Note 10 Pro
+Codename : sweet
+----------------------------------
+Device   : Redmi Note 10 Pro Max
+Codename : sweetin
+Region   : India
+```
+
+| Firmware Only | Size | Firmware + Vendor | Size |
+| :---:| :---: | :---: | :---: |
+| [Download](https://t.me/faultx003/223) | ```80 MB±``` | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) | ```700 MB±``` |
 
 ## Install ROM 
 Install Official MIUI / Custom ROM AOSP via Custom Recovery
@@ -465,7 +479,8 @@ Install Official MIUI / Custom ROM AOSP via Custom Recovery
 </details>
 
 
-## GApps (Google Apps) <!-- ![](https://img.icons8.com/fluency/30/google-play-store-new.png) -->
+## GApps (Google Apps) 
+<!-- ![](https://img.icons8.com/fluency/30/google-play-store-new.png) -->
 
 > [!CAUTION]
 > Pastikan untuk menginstal paket GApps yang sesuai dengan versi OS Android perangkat kamu.  
@@ -477,21 +492,19 @@ Architecture: `arm64`.
 |NikGApps| [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-11/) | [12.0](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12/) - [12.1](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12.1/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-13/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-13/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-14/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-14/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-15/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-15/) |
 |BiTGApps| [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) |
 
-
 ## Root
 
-- [Magisk](https://github.com/topjohnwu/Magisk/releases) Official by [topjohnwu](https://github.com/topjohnwu) 
+- [Magisk](https://github.com/topjohnwu/Magisk/releases) Official by [topjohnwu](https://github.com/topjohnwu)
+- KernelSU-Next
+  - [Ventur's Playground](https://t.me/venturplayground)
 
-## **PlayIntegrityFix**
+## Play Integrity Fix
 This module tries to fix Play Integrity and SafetyNet verdicts to get a valid attestation.
 
 - [PIF](https://github.com/chiteroman/PlayIntegrityFix) by [chiteroman](https://github.com/chiteroman)
 - [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork) by [osm0sis](https://github.com/osm0sis/PlayIntegrityFork)
 
-## **KernelSU-Next Redmi Note 10 Pro/Max**
-- [Ventur's Playground](https://t.me/venturplayground)
-
-## **How to Pass Strong Integrity & Use Bank Apps**
+## Pass Strong Integrity
 - [Method 01](https://gist.github.com/shamxl/b14149ac542864779af4bceb4d6e28bb#file-hiderootandpassstrong-md) by [shamxl](https://gist.github.com/shamxl)
 
 
@@ -522,7 +535,6 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 | Project Pixelage | Official | [Zohaib](http://t.me/lemezohaib) | [Telegram](https://t.me/lemezohaibdesk) | [Download](https://sourceforge.net/projects/projectpixelage/files/sweet/) |
 | Project-Xtended | Official (Discontinued) | - | - | [~Download~](https://downloads.project-xtended.org/?dir=sweet/XT) |
 | VoltageOS | Official | [Mr Fox](http://t.me/mrfox2003) | [Telegram](https://t.me/foxbuilds) | [Download](https://www.voltageos.com/devices/download/sweet) |
-
 
 </details>
 
