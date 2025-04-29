@@ -32,6 +32,12 @@ Released March 2021
  - [Spesification](#xiaomi-redmi-note-10-pro-sweet)
  - [Download MIUI Official ROMs](#download-miui-official-roms)
  - [Firmware](#firmware)
+ - [MIUI Debloated](#miui-debloated)
+ - [Forum](#forum)
+ - [Mi Unlock Tools](#mi-unlock-tools)
+ - [Relock Bootloader](#relock-bootloader)
+ - [Mi Flash Tool](#miflash-tool)
+ - 
 
 ---
 
@@ -303,7 +309,7 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 
 - [Download](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view)
 
-## Relock / Lock Bootloader 
+## Relock Bootloader 
 
 > [!WARNING]
 > - Relocking will wipe your data (factory reset).
@@ -346,7 +352,7 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 - JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
 - [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing)
 
-## ADB & Fastboot Driver
+## ADB & Fastboot
 - [ADB](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view) (Windows)
 - Lastest Android platform tools
   - [Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
