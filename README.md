@@ -376,7 +376,7 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 ## Install TWRP (Permanent) MIUI
 
 > [!NOTE]
-> Make sure your computer has [`adb-fastboot (drivers)`]() installed.
+> Make sure your computer has [`adb-fastboot (drivers)`](/README.md#adb--fastboot-driver) installed.
 
 <details>
   <summary>Step to Install</summary>
