@@ -1,4 +1,4 @@
-**English | [***Bahasa Indonesia***](./README_ID.md)**
+**English | [Bahasa Indonesia](./README_ID.md)**
 > [!Caution]
 > I am not responsible for anything happened to your device do at your own risk!
 >
@@ -30,10 +30,9 @@ Released March 2021
 
 ## Table of Contents
  - [Spesification](#xiaomi-redmi-note-10-pro-sweet)
- - [Download MIUI Official ROMs](#download-miui-official-roms)
- - [Firmware](#firmware)
- - [MIUI Debloated](#miui-debloated)
  - [Forum](#forum)
+ - [Download MIUI Official ROMs](#download-miui-official-roms)
+ - [MIUI Debloated](#miui-debloated)
  - [Mi Unlock Tools](#mi-unlock-tools)
  - [Relock Bootloader](#relock-bootloader)
  - [Mi Flash Tool](#miflash-tool)
@@ -41,18 +40,26 @@ Released March 2021
  - [Erase System Dynamic Partition](#erase-system-dynamic-partition)
  - [Custom Recovery](#custom-recovery)
  - [Install TWRP (Permanent) MIUI](#install-twrp-permanent-miui)
+ - [Firmware](#firmware)
  - [Install ROM](#install-rom)
  - [GApps (Google Apps)](#gapps-google-apps)
  - [Root](#root)
  - [Play Integrity Fix](#play-integrity-fix)
- - [KernelSU-Next](#kernelsu-next)
  - [Pass Strong Integrity](#pass-strong-integrity)
  - [Custom ROM (sweet/sweetin)](#custom-rom-sweetsweetin)
  - [Optional](#optional)
- - 
 
 ---
 
+## Forum
+XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.12117/)
+
+| Telegram Group | Telegram Channel |
+| --- | --- |
+| [Indonesia](https://t.me/RedmiNote10ProID) | [Indonesia](https://t.me/RedmiNote10ProIDUpdate) |
+| [Global](https://t.me/RedmiNote10ProDiscussion) | [Global](https://t.me/RedmiNote10ProChannel) |
+| [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography) | [GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel) |
+|  | [Mirror](https://t.me/faultx003) |
 
 ## Download MIUI Official ROMs
 
@@ -210,23 +217,6 @@ Redmi Note 10 Pro / Pro Max India
 
 </details>
 
-
-## Firmware
-
-```
-Device   : Redmi Note 10 Pro
-Codename : sweet
-----------------------------------
-Device   : Redmi Note 10 Pro Max
-Codename : sweetin
-Region   : India
-```
-
-| Firmware Only | Size | Firmware + Vendor | Size |
-| :---:| :---: | :---: | :---: |
-| [Download](https://t.me/faultx003/223) | ```80 MB±``` | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) | ```700 MB±``` |
-
-
 ## MIUI Debloated
 
 > [!NOTE]
@@ -300,17 +290,6 @@ Region   : India
 ![](assets/e43eZ28HO0.png)
 
 </details>
-
-## Forum
-
-XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.12117/)
-
-| Telegram Group | Telegram Channel |
-| --- | --- |
-| [Indonesia](https://t.me/RedmiNote10ProID) | [Indonesia](https://t.me/RedmiNote10ProIDUpdate) |
-| [Global](https://t.me/RedmiNote10ProDiscussion) | [Global](https://t.me/RedmiNote10ProChannel) |
-| [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography) | [GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel) |
-|  | [Mirror](https://t.me/faultx003) |
 
 
 
@@ -425,6 +404,22 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
   
 </details>
 
+## Firmware
+
+```
+Device   : Redmi Note 10 Pro
+Codename : sweet
+----------------------------------
+Device   : Redmi Note 10 Pro Max
+Codename : sweetin
+Region   : India
+```
+
+| Firmware Only | Size | Firmware + Vendor | Size |
+| :---:| :---: | :---: | :---: |
+| [Download](https://t.me/faultx003/223) | ```80 MB±``` | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) | ```700 MB±``` |
+
+
 ## Install ROM 
 
 Install Official MIUI / Custom ROM AOSP via Custom Recovery
@@ -501,16 +496,15 @@ Architecture: `arm64`.
 
 ## Root
 
-- [Magisk](https://github.com/topjohnwu/Magisk/releases) Official by [topjohnwu](https://github.com/topjohnwu) 
+- [Magisk](https://github.com/topjohnwu/Magisk/releases) Official by [topjohnwu](https://github.com/topjohnwu)
+- KernelSU-Next:
+  - [Ventur's Playground](https://t.me/venturplayground)
 
 ## **Play Integrity Fix**
 This module tries to fix Play Integrity and SafetyNet verdicts to get a valid attestation.
 
 - [PIF](https://github.com/chiteroman/PlayIntegrityFix) by [chiteroman](https://github.com/chiteroman)
 - [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork) by [osm0sis](https://github.com/osm0sis/PlayIntegrityFork)
-
-## **KernelSU-Next**
-- [Ventur's Playground](https://t.me/venturplayground)
 
 ## **Pass Strong Integrity**
 - [Method 01](https://gist.github.com/shamxl/b14149ac542864779af4bceb4d6e28bb#file-hiderootandpassstrong-md) by [shamxl](https://gist.github.com/shamxl)
