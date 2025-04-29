@@ -35,7 +35,7 @@ Released March 2021
  - [MIUI Debloated](#miui-debloated)
  - [Mi Unlock Tools](#mi-unlock-tools)
  - [Relock Bootloader](#relock-bootloader)
- - [Mi Flash Tool](#miflash-tool)
+ - [MiFlash Tool](#miflash-tool)
  - [ADB & Fastboot](#adb--fastboot)
  - [Erase System Dynamic Partition](#erase-system-dynamic-partition)
  - [Custom Recovery](#custom-recovery)
