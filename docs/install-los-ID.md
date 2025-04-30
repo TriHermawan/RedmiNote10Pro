@@ -19,10 +19,17 @@ codename : sweet
 
 ## Download
 - [LineageOS ROM & Recovery](https://download.lineageos.org/devices/sweet/builds)
-
+  
+  <details>
+       <summary>Picture</summary>
+        <p align="center">
+          <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/install-los-pict/los-download.png" alt="Picture" width="" height="">
+        </p>
+    </details>
+    
    Rename:
   - `lineage-xx.x-xxxx-nightly-sweet-signed.zip` ➜ `rom.zip`
-  - `recovery.img` ➜ `recovery.zip`
+    
 - [Latest Firmware Only](./README_ID.md#firmware)
 
   Rename: `fw_sweet_miui_xxxxx_13.0.zip` ➜ `fw.zip`
@@ -33,16 +40,6 @@ codename : sweet
   - [Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.1)
 
     Rename: `Magisk-xxxx.apk` ➜ `magisk.zip`
-- Jika semua sudah terdownload
-  <details>
-    <summary>Picture</summary>
-    <p align="center">
-      <img src="" alt="Picture" width="" height="">
-    </p>
-  </details>
-
-> [!NOTE]
-> Disini saya menggunakan sistem operasi macOS, cara ini bisa juga untuk Windows atau Linux. anda cukup sesuaikan dengan sistem operasi (OS) yang kamu gunakan.
 
 ### Syarat
 - Pastikan [ADB & Fastboot Driver](./install-adb-fastboot.md) sudah terinstall dengan benar di mesin komputer anda.
@@ -57,11 +54,22 @@ codename : sweet
     <details>
        <summary>Picture</summary>
         <p align="center">
-          <img src="" alt="Picture" width="" height="">
+          <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/install-los-pict/1-los.png" alt="Picture" width="" height="">
         </p>
     </details>
 
 2. Buka Terminal/CMD, arahkan folder yang tadi kita buat "LineageOS" ke Terminal/CMD.
+   - Ketikan perintah: `cd` spasi lalu drag & drop folder **LineageOS** ke Terminal/CMD lalu Enter
+   - Lu ketikan `Dir` Enter
+
+
+     Jika sudah seperti gambar (contoh) dibawah ini, maka lanjut ke step berikutnya
+     <details>
+       <summary>Picture</summary>
+        <p align="center">
+          <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/install-los-pict/2-los.png" alt="Picture" width="" height="">
+        </p>
+    </details>
 3. Jika sudah dipastikan sesuai, lanjut untuk step berikutnya.
 
 ## Flash ROM
