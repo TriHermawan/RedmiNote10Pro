@@ -39,6 +39,7 @@ Released March 2021
  - [Relock Bootloader](#relock-bootloader)
  - [Mi Flash Tool](#miflash-tool)
  - [ADB & Fastboot](#adb--fastboot)
+ - [Android platform tools](#android-platform-tools)
  - [Erase System Dynamic Partition](#erase-system-dynamic-partition)
  - [Custom Recovery](#custom-recovery)
  - [Install TWRP (Permanent) MIUI](#install-twrp-permanent-miui)
@@ -342,8 +343,9 @@ Redmi Note 10 Pro / Pro Max India
 | ```20200314``` | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20200314.zip?a=view) |
 
 ## ADB & Fastboot
-- [ADB](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view) (Windows)
-- Lastest Android platform tools
+- [Install adb & fastboot Driver](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/docs/install-adb-fastboot.md)
+
+## Android platform tools
   - [Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
   - [macOS](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)
   - [Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip)
