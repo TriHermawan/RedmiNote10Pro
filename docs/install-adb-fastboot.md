@@ -16,8 +16,8 @@
   <summary>Step 1</summary>
   Download & ekstrak:
   
-  - [ADB (Windows)](./README_ID.md#adb--fastboot)
-  - [Mi Unlock Tools](./README_ID.md#mi-unlock-tools)
+  - [ADB (Windows)](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/README_ID.md#adb--fastboot)
+  - [Mi Unlock Tools](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/README_ID.md#mi-unlock-tools)
   <p align="center">
     <img src="assets/adb-fastboot-pict/1.png" alt="Picture" width="" height="">
   </p>
