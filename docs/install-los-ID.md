@@ -49,7 +49,7 @@ codename : sweet
 
 ## Sebelum memulai Flash LineageOS
 
-1. Pastikan semua syarat diatas sudah terpenuhi, dan semua file yang sudah di download simpan dalam 1 folder, misal nama folder "LineageOS".
+1. Pastikan semua syarat diatas sudah terpenuhi, dan semua file yang sudah di download simpan dalam 1 folder, contoh nama folder "LineageOS".
 
     <details>
        <summary>Picture</summary>
