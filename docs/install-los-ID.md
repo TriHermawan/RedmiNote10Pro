@@ -136,7 +136,7 @@ Silahkan pilih **Basic** kalo kamu masih pemula.
     Tunggu & pastikan keterangan yang ada di device seperti:
     `Install completed with status 0`
     
-    Proses nstall rom LineageOS **sudah berhasil dan selesai**.
+    Proses install rom LineageOS **sudah berhasil dan selesai**.
 15. Pilih **`Reboot system now`** untuk booting ke LineageOS.
 
     Jika kamu ingin melakukan install GApps, **Jangan untuk `Reboot system now` tapi lanjut ke step berikutnya**.
