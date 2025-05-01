@@ -97,7 +97,7 @@ Silahkan pilih **Basic** kalo kamu masih pemula.
      <details>
        <summary>Picture</summary>
        <p align="center">
-         <img src="" alt="Picture" width="" height="">
+         <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/install-los-pict/los-recovery.png" alt="Picture" width="50%" height="auto">
        </p>
      </details>
   6. Pilih **`Apply update`** ➜ **`Apply from ADB`**
@@ -110,6 +110,14 @@ Silahkan pilih **Basic** kalo kamu masih pemula.
      List of devices attached
      fe4afbea        sideload ← terdeteksi
      ```
+     <details>
+       <summary>Picture</summary>
+       <p align="center">
+         <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/install-los-pict/sideload.png" alt="Picture" width="" height="">
+       </p>
+     </details>
+
+     
   8. Install Firmware:
      ```
      adb -d sideload fw.zip
@@ -120,6 +128,14 @@ Silahkan pilih **Basic** kalo kamu masih pemula.
      Install anyway?
      ```
      Pilih: ➜ **YES**
+
+     <details>
+       <summary>Picture</summary>
+       <p align="center">
+         <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/install-los-pict/verifiaction-los.png" alt="Picture" width="50%" height="auto">
+       </p>
+     </details>
+
      Proses akan dilanjutkan kembali, dan jika sudah selesai proses install firmware otomatis akan kembali ke menu utama recovery.
 10. Pilih **`Advanced`** ➜ **`Reboot to recovery`**.
 11. Pilih **`Factory reset`** ➜ **`Format data/factory reset`** ➜ **`Format data`**.  
