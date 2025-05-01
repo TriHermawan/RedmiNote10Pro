@@ -43,7 +43,7 @@ codename : sweet
 
 ### Syarat
 - Pastikan [ADB & Fastboot Driver](./install-adb-fastboot.md) sudah terinstall dengan benar di mesin komputer anda.
-- Backup semua data penting anda, karena data akan terformat.
+- Backup semua data penting, karena data akan terformat.
 - **Sign out** Mi Account, Jika anda saat ini di MIUI ROM.
 - **Sign out** semua akun Google untuk menghindari "FRP" (Factory Reset Protection).
 
