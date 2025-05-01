@@ -61,7 +61,7 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 | [Indonesia](https://t.me/RedmiNote10ProID) | [Indonesia](https://t.me/RedmiNote10ProIDUpdate) |
 | [Global](https://t.me/RedmiNote10ProDiscussion) | [Global](https://t.me/RedmiNote10ProChannel) |
 | [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography) | [GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel) |
-|  | [Mirror](https://t.me/faultx003) |
+|  | [FaultX](https://t.me/faultx003) |
 
 ## Download MIUI Official ROMs
 
