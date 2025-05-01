@@ -83,7 +83,7 @@ Silahkan pilih **Basic** kalo kamu masih pemula.
   2. Tekan dan tahan tombol **`Power`** + **`Volume Bawah`** sampai adan keterangan **"FASTBOOT"**, lalu hubungkan device ke komputer dengan kabel USB.
   3. Copy - Paste command:
      ```
-     fastboot device
+     fastboot devices
      ```
      Pastikan `Device ID` muncul.
   4. Install Recovery (`recovery.img`)
