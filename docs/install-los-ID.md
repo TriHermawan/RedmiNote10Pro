@@ -59,8 +59,8 @@ codename : sweet
     </details>
 
 2. Buka Terminal/CMD, arahkan folder yang tadi kita buat "LineageOS" ke Terminal/CMD.
-   - Ketikan perintah: `cd` spasi lalu drag & drop folder **LineageOS** ke Terminal/CMD lalu Enter
-   - Ketikan `Dir` Enter
+   - Ketikan perintah: **`cd`** spasi lalu drag & drop folder **LineageOS** ke Terminal/CMD lalu Enter
+   - Ketikan **`dir`** Enter
 
 
      Jika sudah seperti gambar (contoh) dibawah ini, maka lanjut ke step berikutnya
