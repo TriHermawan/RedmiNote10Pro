@@ -92,12 +92,8 @@ Silahkan pilih **Basic** kalo kamu masih pemula.
      fastboot flash recovery recovery.img
      ```
      Tunggu sampai proses install recovery selesai dengan tulisan **"Done"**.
-  5. Reboot device dengan command:
-     ```
-     fastboot reboot-recovery
-     ```
-     Otomatis device akan masuk ke recovery mode.
-     Jika device tidak masuk ke recovery: tekan dan tahan tombol **`Power` + `Volume Atas`**.
+  5. Reboot device ke Recovery Mode
+     Tekan dan tahan tombol **`Power` + `Volume Atas`**. Saat Logo "MI" muncul langsung lepaskan tombol **`Power`**.
      <details>
        <summary>Picture</summary>
        <p align="center">
@@ -123,7 +119,7 @@ Silahkan pilih **Basic** kalo kamu masih pemula.
      Signature verification failed
      Install anyway?
      ```
-     Pilih: **YES**
+     Pilih: ➜ **YES**
      Proses akan dilanjutkan kembali, dan jika sudah selesai proses install firmware otomatis akan kembali ke menu utama recovery.
 10. Pilih **`Advanced`** ➜ **`Reboot to recovery`**.
 11. Pilih **`Factory reset`** ➜ **`Format data/factory reset`** ➜ **`Format data`**.  
