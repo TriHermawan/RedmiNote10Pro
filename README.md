@@ -551,7 +551,44 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 |  |  | MIUI 13 `(V13.0.18.0)` | 12 | [Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote10Pro_V13.0.18.0.SKFMIXM_v13-12.zip/download) |
 |  |  | MIUI 12 `(V12.5.9.0)` | 11 | [Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote10Pro_V12.5.9.0.RKFMIXM_v12-11.zip/download) |
 
+</details>
 
+## Fix _"Find Device storage corrupt"_
+
+> [!WARNING]
+> Do With Your Own Risk!!
+
+_"Find Device storage corrupt. Your device is unsafe now"_
+
+<details>
+ <summary>Method 1</summary>
+ 
+ - Flash [Orangefox R11.1_3](https://onboardcloud.dl.sourceforge.net/project/orangefox-releases/sweet/04122023/OrangeFox-R11.1_3-Unofficial-sweet.zip)
+ - Flash [PixelOS A12](https://cloud03.faultx.workers.dev/0:/PixelOS_sweet-12.1-20220812-0031.zip?a=view)
+   - Flash ROM PixelOS
+   - Format data ➜ **YES**
+   - Reboot system
+ - Flash [MIUI 13/14](#download-miui-official-roms) Type: **Recovery** 
+   - Flash ROM MIUI
+   - Format data ➜ **YES**
+   - Reboot system
+ 
+</details>
+<details>
+ <summary>Method 2</summary>
+ 
+ **Root Required**, Testing from AOSP 14 to MIUI
+ 
+ Before Flashing MIUI ROM!!
+ - Delete all contents of the "fdsd" folder
+   ```
+   mnt/vendor/persist/fdsd
+   ```
+ - Reboot system
+ - Reboot into TWRP/OrangeFox
+ - Flash MIUI ROM
+ - Done!
+ 
 </details>
 
 ## Optional
@@ -579,7 +616,6 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
  - Check/Test MD5 hash [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid&feature=related_apps) | [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en&gl=US) | [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)
 
  - [Fix TEE Broken - sweet](https://t.me/faultx003/290)
- - [Fix: "Find Device storage corrupt. Your device is unsafe now" Do With Your Own Risk!!](https://t.me/faultx003/303)
 
 </details>
 
