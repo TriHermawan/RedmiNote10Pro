@@ -431,7 +431,7 @@ Region   : India
 > - If the ROM does not match, maybe brick your phone (bootloop or hard brick).
 > - If you are currently or previously using a ROM/Custom ROM (AOSP) and want to flash MIUI to MIUI 14/13/12, I recommend doing [**this**](https://t.me/faultx003/303) . The goal is to ensure that when you're on MIUI, you won't encounter a message like this: _"Find Device storage corrupt. Your device is unsafe now."_
 
-- Install Official MIUI / Custom ROM AOSP via Custom Recovery (OrangeFox)
+- **Install Official MIUI / Custom ROM AOSP via Custom Recovery (OrangeFox)**
 
   <details>
    <summary>MIUI</summary>
@@ -477,7 +477,7 @@ Region   : India
   
   </details>
 
-- Install LineageOS via Sideload
+- **Install LineageOS via Sideload**
   - [Read](docs/install-los-ID.md)
 
 
