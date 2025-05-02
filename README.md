@@ -49,6 +49,7 @@ Released March 2021
  - [Play Integrity Fix](#play-integrity-fix)
  - [Pass Strong Integrity](#pass-strong-integrity)
  - [Custom ROM (sweet/sweetin)](#custom-rom-sweetsweetin)
+ - [Fix "Find Device storage corrupt"](#fix-find-device-storage-corrupt)
  - [Optional](#optional)
 
 ---
