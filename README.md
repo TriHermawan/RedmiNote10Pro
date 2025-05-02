@@ -312,8 +312,6 @@ Redmi Note 10 Pro / Pro Max India
 > [!WARNING]
 > - Relocking will wipe your data (factory reset).
 > - If the ROM does not match,relocking may brick your phone (bootloop or hard brick).
-
-> [!NOTE]
 > - Back up all your data beforehand.
 > - Charge your battery to at least 50%.
 
