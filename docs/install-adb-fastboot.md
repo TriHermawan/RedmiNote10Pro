@@ -10,11 +10,11 @@
 # Install adb & fastboot Driver
 
 > [!NOTE]
-> Perhatikan step instalasi dengan benar
+> Attention to the installation steps properly
 
 <details>
   <summary>Step 1</summary>
-  Download & ekstrak:
+  Download & extract:
   
   - [ADB (Windows)](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view)
   - [Mi Unlock Tools](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view)
@@ -29,9 +29,9 @@
   
   Double click ➜ `adb-setup-1.4.3.exe`
 
-  Lalu tekan huruf ➜ **Y**
+  Then press the key ➜ **Y**
 
-  _Perhatikan gambar dibawah ini_
+  _See the image below_
   <p align="center">
     <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/2.png" alt="Picture" width="" height="">
   </p>
@@ -41,7 +41,7 @@
   
   
   
-  Pastikan ➜ ☑️ _Always trust software from "Gooogle Inc"_ tercentang, Lalu click **"Install"**
+  Make sure ➜ ☑️ _Always trust software from "Gooogle Inc"_ , Then click **"Install"**
   <p align="center">
     <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/3.png" alt="Picture" width="" height="">
   </p>
@@ -58,7 +58,7 @@
 <details>
   <summary>Step 5</summary>
 
-  keterangan "Ready to use"
+  The message "Ready to use" will appear.
 
   Click **"Finish"** 
   <p align="center">
@@ -83,7 +83,7 @@
 <details>
   <summary>Step 8</summary>
 
-  Click logo **"Gear"** (Perhatikan lingkaran merah)
+  Click the **"Gear"** icon (see the red circle)
   <p align="center">
     <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/8.png" alt="Picture" width="" height="">
   </p>
@@ -92,9 +92,9 @@
   <summary>Step 9</summary>
 
   
-  - Buka **Device Manager**
-  - Hubungkan device kamu ke komputer menggunakan kabel USB
-  - Maka keterangan di Device Manager **`⚠︎ Android`** berarti driver fastboot belum terinstall dengan benar
+  - Open **Device Manager** (Click the **Start** button (Windows logo) ➜ Type **Device Manager** in the search bar ➜ Click on the **Device Manager** result)
+  - Connect your device to the computer via USB cable
+  - If Device Manager shows **`⚠︎ Android`** it means the fastboot driver has not been installed correctly
   - Click ➜ **Check** _"Click the button to install drive"_
   <p align="center">
     <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/9.png" alt="Picture" width="" height="">
@@ -103,8 +103,8 @@
 <details>
   <summary>Step 10</summary>
 
-  - Jika keterangan **"Connect your device again"**, Cabut USB lalu hubungkan kembali device kamu ke komputer
-  - Maka Driver akan otomatis menginstall
+  - If it says **"Connect your device again"**, unplug the USB and reconnect your device to the computer
+  - The driver should then install automatically
   <p align="center">
     <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/10.png" alt="Picture" width="" height="">
   </p>
@@ -112,9 +112,9 @@
 <details>
   <summary>Step 11</summary>
 
-  Jika sudah terinstall dengan benar, tampilanya akan seperti gambar dibawah ini.
+  If the installation is successful, the display will look like the image below.
 
-  Lalu **Close** `Mi Unlock`.
+  Then **Close** `Mi Unlock`.
   <p align="center">
     <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/11.png" alt="Picture" width="" height="">
   </p>
@@ -123,10 +123,10 @@
   <summary>Step 12</summary>
 
 
-  - Buka Terminal / CMD
-  - Ketikan perintah: `fastboot devices`
+  - Open Terminal / CMD
+  - Type the command: `fastboot devices`
 
-Jika tampilan seperti ini berarti kamu sudah selesai.
+If the result looks like this, you're done.
   <p align="center">
     <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/12.png" alt="Picture" width="" height="">
   </p>
