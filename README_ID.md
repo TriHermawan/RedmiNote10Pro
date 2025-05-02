@@ -422,77 +422,63 @@ Region   : India
 | [Download](https://t.me/faultx003/223) | ```80 MB±``` | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) | ```700 MB±``` |
 
 ## Install ROM 
-Install Official MIUI / Custom ROM AOSP via Custom Recovery
 
 > [!WARNING]
 > - Cadangkan semua data kamu terlebih dahulu.
 > - Data kamu akan dihapus (di-reset ke setelan pabrik).
 > - Isi daya baterai kamu hingga minimal 50%.
 > - Jika ROM tidak cocok, ponsel kamu bisa mengalami brick (bootloop atau hard brick).
+> - Jika saat ini atau sebelumnya kamu menggunakan ROM/ROM Kustom (AOSP) dan ingin mem-flash MIUI ke MIUI 14/13/12, saya sarankan untuk melakukan [**ini**](https://t.me/faultx003/303). Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak akan menemukan pesan seperti ini: _"Find Device storage corrupt. Your device is unsafe now."_
 
+- **Install Official MIUI / Custom ROM AOSP via Custom Recovery (OrangeFox)**
 
-<details>
+  <details>
+   <summary>MIUI</summary>
   
-<summary>MIUI</summary>
+   - [OrangeFox R11.1_6 MIUI](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip)
+   - Flash ROM MIUI 14
+     | Device | MIUI | Link |
+     | :---: | :---: | :---: |
+     | Redmi Note 10 Pro **Global** | `V14.0.9.0.TKFMIXM` | [Download](https://bn.d.miui.com/V14.0.9.0.TKFMIXM/miui_SWEETGlobal_V14.0.9.0.TKFMIXM_b774d114f4_13.0.zip) |
+     | Redmi Note 10 Pro **EEA** | `V14.0.9.0.TKFEUXM` | [Download](https://bn.d.miui.com/V14.0.9.0.TKFEUXM/miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip) |
+     | Redmi Note 10 Pro **Russia** | `V14.0.2.0.TKFRUXM` | [Download](https://bn.d.miui.com/V14.0.2.0.TKFRUXM/miui_SWEETRUGlobal_V14.0.2.0.TKFRUXM_9b398954b1_13.0.zip) |
+     | Redmi Note 10 Pro **Turkey** | `V14.0.2.0.TKFTRXM` | [Download](https://bn.d.miui.com/V14.0.2.0.TKFTRXM/miui_SWEETTRGlobal_V14.0.2.0.TKFTRXM_4dd7b72cd7_13.0.zip) |
+     | Redmi Note 10 Pro **Indonesia** | `V14.0.2.0.TKFIDXM` | [Download](https://bn.d.miui.com/V14.0.2.0.TKFIDXM/miui_SWEETIDGlobal_V14.0.2.0.TKFIDXM_df828d33c5_13.0.zip) |
+     | Redmi Note 10 Pro **Taiwan** | `V14.0.4.0.TKFTWXM` | [Download](https://bn.d.miui.com/V14.0.4.0.TKFTWXM/miui_SWEETTWGlobal_V14.0.4.0.TKFTWXM_dc65b5ca7d_13.0.zip) |
+     | Redmi Note 10 Pro **India** | `V14.0.1.0.TKFINXM` | [Download](https://bn.d.miui.com/V14.0.1.0.TKFINXM/miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip) |
+     | Redmi Note 10 Pro Max **India** | `V14.0.1.0.TKFINXM` | [Download](https://bn.d.miui.com/V14.0.1.0.TKFINXM/miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip) |
+   
+   - Format Data ➜ **"YES"**
+   - Reboot System
+ 
+  </details>
 
-> Jika saat ini atau sebelumnya kamu menggunakan ROM/ROM Kustom (AOSP) dan ingin mem-flash MIUI ke MIUI 14/13/12, saya sarankan untuk melakukan [**ini**](https://t.me/faultx003/303). Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak akan menemukan pesan seperti ini: _"Find Device storage corrupt. Your device is unsafe now."_
-
-- [OrangeFox R11.1_6 MIUI](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip)
-- Flash ROM MIUI 14
-  | Device | MIUI | Link |
-  | :---: | :---: | :---: |
-  | Redmi Note 10 Pro **Global** | `V14.0.9.0.TKFMIXM` | [Download](https://bn.d.miui.com/V14.0.9.0.TKFMIXM/miui_SWEETGlobal_V14.0.9.0.TKFMIXM_b774d114f4_13.0.zip) |
-  | Redmi Note 10 Pro **EEA** | `V14.0.9.0.TKFEUXM` | [Download](https://bn.d.miui.com/V14.0.9.0.TKFEUXM/miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip) |
-  | Redmi Note 10 Pro **Russia** | `V14.0.2.0.TKFRUXM` | [Download](https://bn.d.miui.com/V14.0.2.0.TKFRUXM/miui_SWEETRUGlobal_V14.0.2.0.TKFRUXM_9b398954b1_13.0.zip) |
-  | Redmi Note 10 Pro **Turkey** | `V14.0.2.0.TKFTRXM` | [Download](https://bn.d.miui.com/V14.0.2.0.TKFTRXM/miui_SWEETTRGlobal_V14.0.2.0.TKFTRXM_4dd7b72cd7_13.0.zip) |
-  | Redmi Note 10 Pro **Indonesia** | `V14.0.2.0.TKFIDXM` | [Download](https://bn.d.miui.com/V14.0.2.0.TKFIDXM/miui_SWEETIDGlobal_V14.0.2.0.TKFIDXM_df828d33c5_13.0.zip) |
-  | Redmi Note 10 Pro **Taiwan** | `V14.0.4.0.TKFTWXM` | [Download](https://bn.d.miui.com/V14.0.4.0.TKFTWXM/miui_SWEETTWGlobal_V14.0.4.0.TKFTWXM_dc65b5ca7d_13.0.zip) |
-  | Redmi Note 10 Pro **India** | `V14.0.1.0.TKFINXM` | [Download](https://bn.d.miui.com/V14.0.1.0.TKFINXM/miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip) |
-  | Redmi Note 10 Pro Max **India** | `V14.0.1.0.TKFINXM` | [Download](https://bn.d.miui.com/V14.0.1.0.TKFINXM/miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip) |
+  <details>
+   <summary>PixelOS</summary>
+   
+   - [OrangeFox R11.1_7 EROFSCompression](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip)
+   - Flash [Firmware Only]() _(if necessary)_
+   - Flash [PixelOS ROM](https://pixelos.net/download/sweet) | [Archive](https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/)
+   - Format Data ➜ **"YES"**
+   - Reboot System
   
-- Format Data ➜ **"YES"**
-- Reboot System
+  </details>
 
-</details>
+  <details>
+   <summary>LineageOS Official</summary>
+   
+   - [OrangeFox R11.1_6](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet.zip)
+   - Flash [Firmware Only]() _(if necessary)_
+   - Flash [LineageOS ROM](https://download.lineageos.org/devices/sweet/builds)
+   - Flash GApps (Google Apps): [MindTheGapps_android-14](https://github.com/MindTheGapps/14.0.0-arm64/releases) | [MindTheGapps_android-15](https://github.com/MindTheGapps/15.0.0-arm64/releases)
+   - Format Data ➜ **"YES"**
+   - Reboot System
+  
+  </details>
 
-<details>
+- **Install LineageOS via Sideload**
+  - [Read](docs/install-los-ID.md)
 
-<summary>PixelOS</summary>
-
-- [OrangeFox R11.1_7 EROFSCompression](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip)
-- Flash [Firmware Only](https://github.com/TriHermawan/faultx-miui-tools?tab=readme-ov-file#firmware-for-redmi-note-10-pro) _(jika perlu)_
-- Flash [PixelOS ROM](https://pixelos.net/download/sweet) | [Archive](https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/)
-- Format Data ➜ **"YES"**
-- Reboot System
-
-</details>
-
-<details>
-
-<summary>LineageOS Official</summary>
-
-- [OrangeFox R11.1_6](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet.zip)
-- Flash [Firmware Only](https://github.com/TriHermawan/faultx-miui-tools?tab=readme-ov-file#firmware-for-redmi-note-10-pro) _(jika perlu)_
-- Flash [LineageOS ROM](https://download.lineageos.org/devices/sweet/builds)
-- Flash GApps (Google Apps): [MindTheGapps_android-14](https://github.com/MindTheGapps/14.0.0-arm64/releases) - [MindTheGapps_android-15](https://github.com/MindTheGapps/15.0.0-arm64/releases)
-- Format Data ➜ **"YES"**
-- Reboot System
-
-</details>
-
-
-## GApps (Google Apps) 
-<!-- ![](https://img.icons8.com/fluency/30/google-play-store-new.png) -->
-
-> [!CAUTION]
-> Pastikan untuk menginstal paket GApps yang sesuai dengan versi OS Android perangkat kamu.  
-Architecture: `arm64`.
-
-|  | Android 11 | Android 12 | Android 13 | Android 14 | Android 15 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|MindTheGapps| - | - | [Download](https://github.com/MindTheGapps/13.0.0-arm64/releases) | [Download](https://github.com/MindTheGapps/14.0.0-arm64/releases) | [Download](https://github.com/MindTheGapps/15.0.0-arm64/releases) |
-|NikGApps| [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-11/) | [12.0](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12/) - [12.1](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12.1/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-13/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-13/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-14/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-14/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-15/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-15/) |
-|BiTGApps| [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) |
 
 ## Root
 
