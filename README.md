@@ -1,4 +1,3 @@
-**English | [Bahasa Indonesia](./README_ID.md)**
 > [!Caution]
 > I am not responsible for anything happened to your device do at your own risk!
 >
