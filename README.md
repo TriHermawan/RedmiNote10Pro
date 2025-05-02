@@ -569,7 +569,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 - [Google Splash Screen](https://t.me/mirrorsweet/45)
 - [ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged)
 - [Termux](https://f-droid.org/en/packages/com.termux/)
-- [Custom DNS](https://pastebin.com/DTRu7aWJ)
+- [Custom DNS](docs/dns.md)
 - Fix "Open support link" MIUI 13 Android 12
   * Download [Hidden Settings For MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets)
   * Open "Manage application"
