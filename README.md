@@ -515,7 +515,8 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 <details>
 
-<summary>Android Open Source Project (AOSP)</summary>
+
+<summary>AOSP (Android Open Source Project)</summary>
 
 |  | Status | Maintainer | Support | Link |
 |------------|--------|-----|---------|----------|
@@ -537,6 +538,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 | ProjectElixir | Official | [@pure_soul_kk](https://t.me/pure_soul_kk) | [Telergam](https://t.me/elixir_sweet)| [Download](https://projectelixiros.com/device/sweet) |
 | Project Pixelage | Official | [Zohaib](http://t.me/lemezohaib) | [Telegram](https://t.me/lemezohaibdesk) | [Download](https://sourceforge.net/projects/projectpixelage/files/sweet/) |
 | Project-Xtended | Official (Discontinued) | - | - | [~Download~](https://downloads.project-xtended.org/?dir=sweet/XT) |
+| ThePixelProject | Official | Jan | [Telegram](https://t.me/TPPSweet) | [Download](https://sourceforge.net/projects/pixel-project/files/sweet/) |
 | VoltageOS | Official | [Mr Fox](http://t.me/mrfox2003) | [Telegram](https://t.me/foxbuilds) | [Download](https://www.voltageos.com/devices/download/sweet) |
 
 
