@@ -33,7 +33,7 @@
 
   _See the image below_
   <p align="center">
-    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/2.png" alt="Picture" width="" height="">
+    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/2.png" alt="Picture" width="50%" height="auto">
   </p>
 </details>
 <details>
@@ -43,7 +43,7 @@
   
   Make sure ➜ ☑️ _Always trust software from "Gooogle Inc"_ , Then click **"Install"**
   <p align="center">
-    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/3.png" alt="Picture" width="" height="">
+    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/3.png" alt="Picture" width="50%" height="auto">
   </p>
 </details>
 <details>
@@ -52,7 +52,7 @@
 
   Click ➜ **Next**
   <p align="center">
-    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/4.png" alt="Picture" width="" height="">
+    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/4.png" alt="Picture" width="50%" height="auto">
   </p>
 </details>
 <details>
@@ -62,7 +62,7 @@
 
   Click **"Finish"** 
   <p align="center">
-    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/5.png" alt="Picture" width="" height="">
+    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/5.png" alt="Picture" width="50%" height="auto">
   </p>
 </details>
 <details>
@@ -71,13 +71,13 @@
 
   Double click `miflash_unlock.exe`
   <p align="center">
-    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/6.png" alt="Picture" width="" height="">
+    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/6.png" alt="Picture" width="50%" height="auto">
   </p>
 </details>
 <details>
   <summary>Step 7</summary>
   <p align="center">
-    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/7.jpeg" alt="Picture" width="" height="">
+    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/7.jpeg" alt="Picture" width="50%" height="auto">
   </p>
 </details>
 <details>
@@ -85,7 +85,7 @@
 
   Click the **"Gear"** icon (see the red circle)
   <p align="center">
-    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/8.png" alt="Picture" width="" height="">
+    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/8.png" alt="Picture" width="50%" height="auto">
   </p>
 </details>
 <details>
@@ -97,7 +97,7 @@
   - If Device Manager shows **`⚠︎ Android`** it means the fastboot driver has not been installed correctly
   - Click ➜ **Check** _"Click the button to install drive"_
   <p align="center">
-    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/9.png" alt="Picture" width="" height="">
+    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/9.png" alt="Picture" width="50%" height="auto">
   </p>
 </details>
 <details>
@@ -106,7 +106,7 @@
   - If it says **"Connect your device again"**, unplug the USB and reconnect your device to the computer
   - The driver should then install automatically
   <p align="center">
-    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/10.png" alt="Picture" width="" height="">
+    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/10.png" alt="Picture" width="50%" height="auto">
   </p>
 </details>
 <details>
@@ -116,7 +116,7 @@
 
   Then **Close** `Mi Unlock`.
   <p align="center">
-    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/11.png" alt="Picture" width="" height="">
+    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/11.png" alt="Picture" width="50%" height="auto">
   </p>
 </details>
 <details>
@@ -128,6 +128,6 @@
 
 If the result looks like this, you're done.
   <p align="center">
-    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/12.png" alt="Picture" width="" height="">
+    <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/12.png" alt="Picture" width="50%" height="auto">
   </p>
 </details>
