@@ -50,6 +50,7 @@ Released March 2021
  - [Custom ROM (sweet/sweetin)](#custom-rom-sweetsweetin)
  - [Fix "Find Device storage corrupt"](#fix-find-device-storage-corrupt)
  - [Engineering ROM](#engineering-rom)
+ - [Fix TEE Broken](#fix-tee-broken)
  - [Optional](#optional)
 
 ---
@@ -601,6 +602,55 @@ Device   : Redmi Note 10 Pro
 codename : sweet / sweetin
 ```
 ➜ [**Download**](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/EVQ5yyB1-JBBmQVIEww7ieMBoPuDIp8ZNC0NAbE7lubyIA?e=ooJbLy)
+
+## Fix TEE Broken
+
+> [!NOTE]
+> - Private `keybox.xml`
+> - Rename `keybox.xml` to `sw.xml`
+>
+> Test: 19 Juni 2024
+
+<details>
+ <summary>Picture</summary>
+ <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/fix-tee/1-tee.jpeg" alt="Picture" width="25%" height="auto"> <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/fix-tee/2-tee.jpeg" alt="Picture" width="25%" height="auto"> <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/fix-tee/3-tee.jpeg" alt="Picture" width="25%" height="auto"> <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/fix-tee/4-tee.jpeg" alt="Picture" width="25%" height="auto"> <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/fix-tee/5-tee.jpeg" alt="Picture" width="25%" height="auto"> <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/fix-tee/6-tee.jpeg" alt="Picture" width="50%" height="auto"> 
+</details>
+
+<details>
+ <summary>Fix TEE</summary>
+
+ - Flash [Engineering ROM](#engineering-rom) using [Miflash](#miflash-tool) (flash all)
+ - Enable **Developer Options**
+ - Make sure the sw.xml file is located in the same folder.
+ - Open CMD/Terminal and execute the command below.
+   ```
+   adb root
+   ```
+   ```
+   adb remount
+   ```
+   ```
+   adb reboot
+   ```
+   ```
+   adb shell mkdir -p /data/nativetest64/qti_keymaster_tests/
+   ```
+   ```
+   adb push sw.xml /data/nativetest64/qti_keymaster_tests/
+   ```
+   ```
+   adb shell LD_LIBRARY_PATH=/vendor/lib64/hw KmInstallKeybox /data/nativetest64/qti_keymaster_tests/sw.xml sw true
+   ```
+- If the message says: **`TEE done Installkeybox is done!`** , it means it's correct
+- Flash the Stock ROM MIUI using MiFlash (Flash all and lock)
+- Done
+
+Thanks for [chiteroman](https://github.com/chiteroman)
+
+Follow [@faultx003](https://t.me/faultx003)
+
+ 
+</details>
 
 ## Optional
 
