@@ -49,6 +49,7 @@ Released March 2021
  - [Pass Strong Integrity](#pass-strong-integrity)
  - [Custom ROM (sweet/sweetin)](#custom-rom-sweetsweetin)
  - [Fix "Find Device storage corrupt"](#fix-find-device-storage-corrupt)
+ - [Engineering ROM](#engineering-rom)
  - [Optional](#optional)
 
 ---
@@ -590,6 +591,16 @@ _"Find Device storage corrupt. Your device is unsafe now"_
  - Done!
  
 </details>
+
+## Engineering ROM
+
+**Engineering ROM** is software installed on smartphones by the manufacturer for testing and verification purposes. Its function is to ensure that the device's hardware and software work properly, whether during the manufacturing process, repairs, or testing damaged components. Engineering ROM allows developers to test and fix the device before it is sold or reused.
+
+```
+Device   : Redmi Note 10 Pro
+codename : sweet / sweetin
+```
+➜ [**Download**](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/EVQ5yyB1-JBBmQVIEww7ieMBoPuDIp8ZNC0NAbE7lubyIA?e=ooJbLy)
 
 ## Optional
 
