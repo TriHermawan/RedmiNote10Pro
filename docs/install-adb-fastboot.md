@@ -131,3 +131,7 @@ If the result looks like this, you're done.
     <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/adb-fastboot-pict/12.png" alt="Picture" width="" height="">
   </p>
 </details>
+
+---
+
+[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro/tree/main?tab=readme-ov-file#adb--fastboot)
