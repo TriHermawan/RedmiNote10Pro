@@ -380,7 +380,7 @@ Redmi Note 10 Pro / Pro Max India
 ## Install TWRP (Permanent) MIUI
 
 > [!NOTE]
-> Make sure your computer has [`adb-fastboot (drivers)`](/README.md#adb--fastboot-driver) installed.
+> Make sure your computer has [`adb-fastboot (drivers)`](#adb--fastboot) installed.
 
 <details>
   <summary>Step to Install</summary>
