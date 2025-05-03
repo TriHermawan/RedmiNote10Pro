@@ -676,8 +676,6 @@ Follow [@faultx003](https://t.me/faultx003)
  
  - Check/Test MD5 hash [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid&feature=related_apps) | [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en&gl=US) | [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)
 
- - [Fix TEE Broken - sweet](https://t.me/faultx003/290)
-
 </details>
 
 
