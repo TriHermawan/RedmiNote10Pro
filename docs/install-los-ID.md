@@ -1,5 +1,9 @@
-<img src="https://lh3.googleusercontent.com/pw/AP1GczPLAEv6uUnzAHhMsTsrVDfBvyOfTeNwL56cy_6scp6g_glrnzhjKOyNSQaf2pbI_4_GkJlDBwI_jWj1l9QewYb5P4Wwz0lKV1JuZ881kPNC7B-kbwc3qvVdEkUpJNqjkzPojcz8wKo8TGOCMuHjXaQbTA=w2880-h696-s-no" alt="" width="" height="">
+<!-- <img src="https://lh3.googleusercontent.com/pw/AP1GczPLAEv6uUnzAHhMsTsrVDfBvyOfTeNwL56cy_6scp6g_glrnzhjKOyNSQaf2pbI_4_GkJlDBwI_jWj1l9QewYb5P4Wwz0lKV1JuZ881kPNC7B-kbwc3qvVdEkUpJNqjkzPojcz8wKo8TGOCMuHjXaQbTA=w2880-h696-s-no" alt="" width="" height=""> -->
 
+
+<p align="center">
+  <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/install-los-pict/los-logo.png" alt="Picture" width="350" height="auto">
+</p>
 
 
 # Install LineageOS
