@@ -317,7 +317,7 @@ Redmi Note 10 Pro / Pro Max India
 > - Back up all your data beforehand.
 > - Charge your battery to at least 50%.
 
-### Steps to Relock the Bootloader
+## Steps to Relock the Bootloader
 
 1. Install Official MIUI Fastboot ROM:
    - [Download](./README.md#download-miui-official-roms) the **fastboot** version of MIUI ROM for your device (`.tgz` format). Use this to ensure your system is clean and official.
@@ -387,9 +387,6 @@ Redmi Note 10 Pro / Pro Max India
 > [!NOTE]
 > Make sure your computer has [`adb-fastboot (drivers)`](#adb--fastboot) installed.
 
-<details>
-  <summary>Step to Install</summary>
-
 1. Download:
    - [TWRP (`.img`)](https://dl.twrp.me/sweet/twrp-3.7.1_12-0-sweet.img)
    - [OrangeFox-MIUI (`.zip`)](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip) ➜ Save it to your SDCard
@@ -406,8 +403,6 @@ Redmi Note 10 Pro / Pro Max India
 8. Once you're in TWRP, flash the `OrangeFox (.zip)` file that you saved to your SDCard.
 9. Done!
 
-  
-</details>
 
 ## Firmware
 
