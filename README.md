@@ -333,9 +333,12 @@ Redmi Note 10 Pro / Pro Max India
 
 5. Open Mi Flash Tool and **Click** Select and choose the extracted folder of the fastboot ROM.
 
-7. At the bottom of the tool, choose <ins>_“clean all and lock”_</ins>.
+7. At the bottom of the tool, choose <ins>_“clean all and lock”_</ins> if you want to **"lock the bootloader"**, and all data will be erased
+   - `clean all`: All data and apps will be erased, but the bootloader will remain unlocked.
+   - `save user data`: Your data will remain safe, but apps will be removed (factory reset), and the bootloader will remain unlocked.
+   - `clean and lock`: All data and apps will be erased (clean install), and the bootloader will be locked.
 
-8. Click **Flash** and wait for the process to complete.
+9. Click **Flash** and wait for the process to complete.
 
 
 ## MiFlash Tool
