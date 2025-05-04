@@ -398,8 +398,7 @@ Redmi Note 10 Pro / Pro Max India
 6. To install TWRP, use the command:  
    `fastboot flash recovery` (drag & drop the `twrp .img` file) then press Enter.  
    Example: `fastboot flash recovery twrp-3.7.1_12-0-sweet.img`
-7. To reboot into TWRP, use the command:  
-   `fastboot reboot-recovery`
+7. Reboot the device to Recovery Mode by pressing and holding the Power + Volume Up buttons. When the 'MI' logo appears, release the Power button immediately.
 8. Once you're in TWRP, flash the `OrangeFox (.zip)` file that you saved to your SDCard.
 9. Done!
 
