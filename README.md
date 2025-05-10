@@ -422,7 +422,7 @@ Region   : India
 
 ## Install ROM 
 
-> [!WARNING]
+> [!CAUTION]
 > - Back up all your data beforehand.
 > - Your data will be deleted (factory reset).
 > - Charge your battery to at least 50%.
@@ -435,8 +435,8 @@ Region   : India
    <summary>MIUI</summary>
   
    - [OrangeFox R11.1_6 MIUI](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip)
-   - Flash ROM MIUI 14
-     | Device | MIUI | Link |
+   - Flash [ROM OFFICIAL MIUI](#download-miui-official-roms) `(type: RECOVERY - .zip)`
+     <!-- | Device | MIUI | Link |
      | :---: | :---: | :---: |
      | Redmi Note 10 Pro **Global** | `V14.0.9.0.TKFMIXM` | [Download](https://bn.d.miui.com/V14.0.9.0.TKFMIXM/miui_SWEETGlobal_V14.0.9.0.TKFMIXM_b774d114f4_13.0.zip) |
      | Redmi Note 10 Pro **EEA** | `V14.0.9.0.TKFEUXM` | [Download](https://bn.d.miui.com/V14.0.9.0.TKFEUXM/miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip) |
@@ -445,7 +445,7 @@ Region   : India
      | Redmi Note 10 Pro **Indonesia** | `V14.0.2.0.TKFIDXM` | [Download](https://bn.d.miui.com/V14.0.2.0.TKFIDXM/miui_SWEETIDGlobal_V14.0.2.0.TKFIDXM_df828d33c5_13.0.zip) |
      | Redmi Note 10 Pro **Taiwan** | `V14.0.4.0.TKFTWXM` | [Download](https://bn.d.miui.com/V14.0.4.0.TKFTWXM/miui_SWEETTWGlobal_V14.0.4.0.TKFTWXM_dc65b5ca7d_13.0.zip) |
      | Redmi Note 10 Pro **India** | `V14.0.1.0.TKFINXM` | [Download](https://bn.d.miui.com/V14.0.1.0.TKFINXM/miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip) |
-     | Redmi Note 10 Pro Max **India** | `V14.0.1.0.TKFINXM` | [Download](https://bn.d.miui.com/V14.0.1.0.TKFINXM/miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip) |
+     | Redmi Note 10 Pro Max **India** | `V14.0.1.0.TKFINXM` | [Download](https://bn.d.miui.com/V14.0.1.0.TKFINXM/miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip) | -->
    
    - Format Data ➜ **"YES"**
    - Reboot System
