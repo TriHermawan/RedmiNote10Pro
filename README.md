@@ -338,6 +338,12 @@ Redmi Note 10 Pro / Pro Max India
    - `clean all`: All data and apps will be erased, but the bootloader will remain unlocked.
    - `save user data`: Your data will remain safe, but apps will be removed (factory reset), and the bootloader will remain unlocked.
    - `clean and lock`: All data and apps will be erased (clean install), and the bootloader will be locked.
+     <details>
+       <summary>Screenshot</summary>
+        <p align="center">
+          <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/XiaoMiFlash_1HqPHc6ksS.png" alt="Picture" width="" height="">
+        </p>
+    </details>
 
 9. Click **Flash** and wait for the process to complete.
 
