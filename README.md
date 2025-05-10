@@ -51,6 +51,7 @@ Released March 2021
  - [Fix "Find Device storage corrupt"](#fix-find-device-storage-corrupt)
  - [Engineering ROM](#engineering-rom)
  - [Fix TEE Broken](#fix-tee-broken)
+ - [Splash screen creator](splash_screen_creator)
  - [Optional](#optional)
 
 ---
@@ -317,7 +318,7 @@ Redmi Note 10 Pro / Pro Max India
 > - Back up all your data beforehand.
 > - Charge your battery to at least 50%.
 
-## Steps to Relock the Bootloader
+### Steps to Relock the Bootloader
 
 1. Install Official MIUI Fastboot ROM:
    - [Download](./README.md#download-miui-official-roms) the **fastboot** version of MIUI ROM for your device (`.tgz` format). Use this to ensure your system is clean and official.
@@ -650,6 +651,13 @@ Follow [@faultx003](https://t.me/faultx003)
 
  
 </details>
+
+## Splash screen creator
+Redmi Note 10 Pro / Max
+
+- Splash screen creator [Download](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/EQ3Rna1BkBpIiDzr5C6zXPgBF2lXAXBCjNbg0Xh3dpgFqg?e=JcSQpd)
+
+- Splash screen for Redmi Note 10 Pro / Max [Download](https://t.me/faultx003/184)
 
 ## Optional
 
