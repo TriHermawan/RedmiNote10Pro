@@ -655,6 +655,13 @@ Follow [@faultx003](https://t.me/faultx003)
 ## Splash screen creator
 Redmi Note 10 Pro / Max
 
+<details>
+ <summary>Screenshot</summary>
+ <p align="center">
+ <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/splash-screeen.jpeg" alt="Picture" width="" height="">
+</p>
+</details>
+
 - Splash screen creator [Download](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/EQ3Rna1BkBpIiDzr5C6zXPgBF2lXAXBCjNbg0Xh3dpgFqg?e=JcSQpd)
 
 - Splash screen for Redmi Note 10 Pro / Max [Download](https://t.me/faultx003/184)
