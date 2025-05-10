@@ -469,7 +469,7 @@ Region   : India
    - [OrangeFox R11.1_6](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet.zip)
    - Flash [Firmware Only]() _(if necessary)_
    - Flash [LineageOS ROM](https://download.lineageos.org/devices/sweet/builds)
-   - Flash GApps (Google Apps): [MindTheGapps_android-14](https://github.com/MindTheGapps/14.0.0-arm64/releases) | [MindTheGapps_android-15](https://github.com/MindTheGapps/15.0.0-arm64/releases)
+   - Flash GApps (MindTheGapps): [Android 14](https://github.com/MindTheGapps/14.0.0-arm64/releases) | [Android 15](https://github.com/MindTheGapps/15.0.0-arm64/releases)
    - Format Data ➜ **"YES"**
    - Reboot System
   
