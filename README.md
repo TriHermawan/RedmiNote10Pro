@@ -51,7 +51,7 @@ Released March 2021
  - [Fix "Find Device storage corrupt"](#fix-find-device-storage-corrupt)
  - [Engineering ROM](#engineering-rom)
  - [Fix TEE Broken](#fix-tee-broken)
- - [Splash screen creator](splash_screen_creator)
+ - [Splash screen creator](#splash-screen-creator)
  - [Optional](#optional)
 
 ---
