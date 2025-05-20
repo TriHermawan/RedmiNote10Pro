@@ -54,7 +54,8 @@ ROM      : LineageOS 22.2 Official
 
 <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071800_Key%20Attestation.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071823_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-135213_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071856_Google%20Play%20Store.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071926_Google%20Play%20Store.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-134912_Trebuchet.png" alt="" width="50%" height="auto">
  
-
+---
+[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro/edit/main/README.md#run-bank-app-on-android-root-with-kernelsu-next)
 
 
  
