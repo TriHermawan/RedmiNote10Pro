@@ -516,7 +516,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 ## Run Bank App on Android Root with KernelSU Next
 
-[Read](./docs/bankappsroot.md)
+➜ [Read](./docs/bankappsroot.md)
 
 ## Custom ROM (sweet/sweetin)
 
