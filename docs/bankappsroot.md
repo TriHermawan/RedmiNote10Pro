@@ -25,6 +25,7 @@ ROM      : LineageOS 22.2 Official
 - [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/latest)
 - [SUSFS-FOR-KERNELSU](https://github.com/sidex15/susfs4ksu-module)
 - [KSU Web UI](https://github.com/5ec1cff/KsuWebUIStandalone/releases/latest) ← Install `.apk`
+- [Integrity-Box](https://t.me/MeowRedirect/690)
 
 
 ### Pass Strong Integrity
