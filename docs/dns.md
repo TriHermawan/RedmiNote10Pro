@@ -38,3 +38,5 @@
    dot.tiar.app
    ```
  
+---
+[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro/tree/main?tab=readme-ov-file#optional)
