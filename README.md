@@ -356,7 +356,7 @@ Redmi Note 10 Pro / Pro Max India
 | ```20200314``` | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20200314.zip?a=view) |
 
 ## ADB & Fastboot
-- [Install adb & fastboot Driver](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/docs/install-adb-fastboot.md)
+- [Install adb & fastboot Driver](./docs/install-adb-fastboot.md)
 
 ## Android platform tools
   - [Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
