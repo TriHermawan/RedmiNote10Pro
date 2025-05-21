@@ -483,7 +483,7 @@ Region   : India
   </details>
 
 - **Install LineageOS via Sideload**
-  - [Read](docs/install-los-ID.md)
+  - [Read](./docs/install-los-ID.md)
 
 
 ## GApps (Google Apps) 
