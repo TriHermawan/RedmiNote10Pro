@@ -43,6 +43,37 @@ ROM      : LineageOS 22.2 Official
 - [Integrity-Box](https://t.me/MeowRedirect/690)
 -->
 
+### Step
+
+1. Install Module:
+   - Install ReZygisk
+   - Install Play Integrity Fix
+   - Tricky Store
+   - Reboot
+   - Install Tricky Addon
+   - Reboot
+2. Open KSU Next, Run (►) Play Integrity Fix
+
+   <!-- <details>
+     <summary>Screenshot</summary>
+     <img src="" alt="" width="50%" height="auto">
+   </details> -->
+
+   <details>
+     <summary>Screenshot</summary>
+     <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100318_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100418_KernelSU%20Next.png" alt="" width="50%" height="auto">
+   </details>
+
+3. Run (►) Tricky Store ➜ Click the hamburger menu (three lines)
+   <details>
+     <summary>Screenshot</summary>
+     <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100427_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100433_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100448_KernelSU%20Next.png" alt="" width="50%" height="auto">
+   </details>
+   <details>
+     <summary>Screenshot</summary>
+     <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-085303_Settings.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250522-150607_Play%20Integrity%20API%20Checker.png" alt="" width="50%" height="auto">
+   </details>
+
 <!--
 ### Pass Strong Integrity
 - Install all the modules in KSU Next.
