@@ -23,8 +23,15 @@ ROM      : LineageOS 22.2 Official
 - [ReZygisk](https://github.com/PerformanC/ReZygisk/releases/download/v1.0.0-rc.2/ReZygisk-v1.0.0-rc.2-release.zip)
 - [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/latest)
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/latest)
+- [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/latest)
+
+<!--
+- [ReZygisk](https://github.com/PerformanC/ReZygisk/releases/download/v1.0.0-rc.2/ReZygisk-v1.0.0-rc.2-release.zip)
+- [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/latest)
+- [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/latest)
 - [SUSFS-FOR-KERNELSU](https://github.com/sidex15/susfs4ksu-module)
 - [Integrity-Box](https://t.me/MeowRedirect/690)
+-->
 
 <!--
 - [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/latest)
