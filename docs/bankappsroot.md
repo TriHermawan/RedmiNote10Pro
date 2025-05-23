@@ -15,8 +15,8 @@ codename : sweet
 ROM      : LineageOS 22.2 Official
 ```
 
-- Kernel: [KernelSU Next (KSU Next) + SuSFS](https://t.me/venturplayground/62?single) ← _(for LineageOS Official Build)_
-- [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.6/KernelSU_Next_v1.0.6_12490-release.apk) `.apk`
+- Kernel: [KernelSU Next (KSU Next) + SuSFS](https://t.me/venturplayground/85?single) ← _(for LineageOS Official Build)_
+- [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.7/KernelSU_Next_v1.0.7_12602-release.apk) `.apk`
 
 ### Required Modules:
 
