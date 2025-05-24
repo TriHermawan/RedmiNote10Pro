@@ -47,7 +47,7 @@ Released March 2021
  - [Root](#root)
  - [Play Integrity Fix](#play-integrity-fix)
  - [Pass Strong Integrity](#pass-strong-integrity)
- - [Run Bank App on Android Root with KernelSU Next](#run-bank-app-on-android-root-with-kernelsu-next)
+ - [Run Bank App on Android Root](#run-bank-app-on-android-root)
  - [Custom ROM (sweet/sweetin)](#custom-rom-sweetsweetin)
  - [Fix "Find Device storage corrupt"](#fix-find-device-storage-corrupt)
  - [Engineering ROM](#engineering-rom)
@@ -514,7 +514,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 ## **Pass Strong Integrity**
 - [Method 01](https://gist.github.com/shamxl/b14149ac542864779af4bceb4d6e28bb#file-hiderootandpassstrong-md) by [shamxl](https://gist.github.com/shamxl)
 
-## Run Bank App on Android Root with KernelSU Next
+## Run Bank App on Android Root
 
 ➜ [Read](./docs/bankappsroot.md)
 
