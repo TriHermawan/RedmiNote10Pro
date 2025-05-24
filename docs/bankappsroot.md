@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/KernelSU-Next/KernelSU-Next/blob/next/assets/kernelsu_next.png" alt="logo" width="96px" height="auto">
-</p>
+</p> -->
 
-# Run Bank App on Android Root with KernelSU Next
+# Run Bank App on Android Root
 
 > [!Caution]
 > I am not responsible for anything happened to your device do at your own risk!
@@ -10,13 +10,15 @@
 > [`FaultX`](https://t.me/faultx003)
 
 ```
+(Test)
 Device   : Redmi Note 10 Pro
 codename : sweet
 ROM      : LineageOS 22.2 Official
 ```
 
-- Kernel: [KernelSU Next (KSU Next) + SuSFS](https://t.me/venturplayground/85?single) ← _(for LineageOS Official Build)_
-- [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.7/KernelSU_Next_v1.0.7_12602-release.apk) `.apk`
+Kernel   : [KernelSU Next (KSU Next) + SuSFS](https://t.me/venturplayground/85?single) ← _(for LineageOS Official Build)_
+
+[KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.7/KernelSU_Next_v1.0.7_12602-release.apk) `.apk`
 
 ### Required Modules:
 
