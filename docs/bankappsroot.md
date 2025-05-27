@@ -49,7 +49,7 @@ ROM      : PixelOS Official `(15.0-20250517)` + Kernel   : [Vantom KSU Next](htt
 ### Step
 
 1. Install Module:
-   - Install ReZygisk / Zygisk Nexy
+   - Install ReZygisk / Zygisk Next
    - Install Play Integrity Fix / Play Integrity Fork
    - Tricky Store
    - Reboot
