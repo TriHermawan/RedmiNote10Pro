@@ -10,20 +10,21 @@
 > [`FaultX`](https://t.me/faultx003)
 
 ```
-(Test)
 Device   : Redmi Note 10 Pro
 codename : sweet
-ROM      : LineageOS 22.2 Official
 ```
 
-Kernel   : [KernelSU Next (KSU Next) + SuSFS](https://t.me/venturplayground/85?single) ← _(for LineageOS Official Build)_
+
+ROM      : LineageOS 22.2 Official + [KernelSU Next (KSU Next) + SuSFS](https://t.me/venturplayground/85?single) ← _(for LineageOS Official Build)_
+
+ROM      : PixelOS Official `(15.0-20250517)` + Kernel   : [Vantom KSU Next](https://t.me/venturplayground/82)
 
 [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.7/KernelSU_Next_v1.0.7_12602-release.apk) `.apk`
 
 ### Required Modules:
 
-- [ReZygisk](https://github.com/PerformanC/ReZygisk/releases/download/v1.0.0-rc.2/ReZygisk-v1.0.0-rc.2-release.zip)
-- [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/latest)
+- [ReZygisk](https://github.com/PerformanC/ReZygisk/releases/download/v1.0.0-rc.2/ReZygisk-v1.0.0-rc.2-release.zip) (LineageOS) | [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.2.8/Zygisk-Next-1.2.8-512-4b5d6ad-release.zip) (PixelOS)
+- [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/latest) (LineageOS) | [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases) (PixelOS)
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/latest)
 - [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/latest)
 
@@ -48,8 +49,8 @@ Kernel   : [KernelSU Next (KSU Next) + SuSFS](https://t.me/venturplayground/85?s
 ### Step
 
 1. Install Module:
-   - Install ReZygisk
-   - Install Play Integrity Fix
+   - Install ReZygisk / Zygisk Nexy
+   - Install Play Integrity Fix / Play Integrity Fork
    - Tricky Store
    - Reboot
    - Install Tricky Addon
@@ -108,6 +109,7 @@ Kernel   : [KernelSU Next (KSU Next) + SuSFS](https://t.me/venturplayground/85?s
   <summary>Screenshot</summary>
   <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071800_Key%20Attestation.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071823_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-135213_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071856_Google%20Play%20Store.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071926_Google%20Play%20Store.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-134912_Trebuchet.png" alt="" width="50%" height="auto">
 </details> -->
+
  
 ---
 [**← Back**](https://github.com/TriHermawan/RedmiNote10Pro/tree/main?tab=readme-ov-file#run-bank-app-on-android-root-with-kernelsu-next)
