@@ -14,12 +14,13 @@ Device   : Redmi Note 10 Pro
 codename : sweet
 ```
 
+Test ROM
+- LineageOS 22.2 Official + [KernelSU Next (KSU Next) + SuSFS](https://t.me/venturplayground/85?single) ← _(for LineageOS Official Build)_
+- PixelOS Official (Android 15) + Kernel   : [Vantom KSU Next](https://t.me/venturplayground/82)
 
-ROM      : LineageOS 22.2 Official + [KernelSU Next (KSU Next) + SuSFS](https://t.me/venturplayground/85?single) ← _(for LineageOS Official Build)_
-
-ROM      : PixelOS Official `(15.0-20250517)` + Kernel   : [Vantom KSU Next](https://t.me/venturplayground/82)
-
-[KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.7/KernelSU_Next_v1.0.7_12602-release.apk) `.apk`
+Root
+- [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.7/KernelSU_Next_v1.0.7_12602-release.apk) `.apk`
+<!-- - [Magisk](https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk) -->
 
 ### Required Modules:
 
