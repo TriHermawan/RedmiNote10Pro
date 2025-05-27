@@ -73,6 +73,8 @@ Root
      <summary>Screenshot</summary>
      <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100427_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100433_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100448_KernelSU%20Next.png" alt="" width="50%" height="auto">
    </details>
+
+4. Clear Data PlayStore
    <details>
      <summary>Screenshot</summary>
      <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-085303_Settings.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250522-150607_Play%20Integrity%20API%20Checker.png" alt="" width="50%" height="auto">
