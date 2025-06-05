@@ -14,13 +14,23 @@ Device   : Redmi Note 10 Pro
 codename : sweet
 ```
 
-Test ROM
-- LineageOS 22.2 Official + [KernelSU Next (KSU Next) + SuSFS](https://t.me/venturplayground/85?single) ← _(for LineageOS Official Build)_
-- PixelOS Official (Android 15) + Kernel   : [Vantom KSU Next](https://t.me/venturplayground/82)
+### Test ROM
+
+| ROM Name | Android | Kernel |
+|-|:-:|-|
+| LineageOS 22.2 OFFICIAL | 15 | [LOSPerf + KSUNext + SUSFS](https://t.me/venturplayground) |
+| PixelOS OFFICIAL | 15 | [Vantom KSU Next](https://t.me/venturplayground) |
 
 Root
 - [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.7/KernelSU_Next_v1.0.7_12602-release.apk) `.apk`
 <!-- - [Magisk](https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk) -->
+
+### Root Detection Apps
+
+| App Name | Download |
+|-|-|
+| Momo | [Download](https://t.me/faultx003/140)
+| KeyAttestation (forked) | [Download](https://github.com/chiteroman/KeyAttestation/releases)
 
 ### Required Modules:
 
@@ -56,7 +66,7 @@ Root
    - Reboot
    - Install Tricky Addon
    - Reboot
-2. Open KSU Next, Run (►) Play Integrity Fix
+2. Open KSU Next, Run Play Integrity Fix
 
    <!-- <details>
      <summary>Screenshot</summary>
@@ -68,7 +78,7 @@ Root
      <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100318_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100418_KernelSU%20Next.png" alt="" width="50%" height="auto">
    </details>
 
-3. Run (►) Tricky Store ➜ Click the hamburger menu (three lines)
+3. Run Tricky Store ➜ Click the hamburger menu (three lines)
    <details>
      <summary>Screenshot</summary>
      <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100427_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100433_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/module/Screenshot_20250523-100448_KernelSU%20Next.png" alt="" width="50%" height="auto">
