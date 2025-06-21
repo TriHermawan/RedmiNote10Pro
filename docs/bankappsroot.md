@@ -59,6 +59,10 @@ Root
 
 ### Step
 
+> [!Note]
+> If you want (MEETS STRONG INTEGRITY) find a `keybox.xml` that has not been revoked. import `keybox.xml` in TrickyStore > Set Custom Keybox > find the `keybox.xml` that you got > save.
+>
+
 1. Install Module:
    - Install ReZygisk / Zygisk Next
    - Install Play Integrity Fix / Play Integrity Fork
