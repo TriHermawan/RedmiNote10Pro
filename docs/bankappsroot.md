@@ -27,7 +27,7 @@ Root
 
 ### Root Detection Apps
 
-| App Name | Download |
+| App Name | Link |
 |-|-|
 | Momo | [Download](https://t.me/faultx003/140)
 | KeyAttestation (forked) | [Download](https://github.com/chiteroman/KeyAttestation/releases)
