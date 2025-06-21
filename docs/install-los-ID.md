@@ -224,4 +224,4 @@ Silahkan pilih **Basic** kalo kamu masih pemula.
 </details>
 
 ---
-[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro/tree/main?tab=readme-ov-file#install-rom)
+[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro/tree/main?tab=readme-ov-file#lineageos-official)
