@@ -43,6 +43,7 @@ Released March 2021
  - [Install TWRP (Permanent) MIUI](#install-twrp-permanent-miui)
  - [Firmware](#firmware)
  - [Install ROM](#install-rom)
+ - [LineageOS](#lineageos-official)
  - [GApps (Google Apps)](#gapps-google-apps)
  - [Root](#root)
  - [Play Integrity Fix](#play-integrity-fix)
@@ -487,6 +488,10 @@ Region   : India
 - **Install LineageOS via Sideload**
   - [Read](./docs/install-los-ID.md)
 
+
+## LineageOS (Official)
+
+- [Read](docs/install-los-ID.md)
 
 ## GApps (Google Apps) 
 
