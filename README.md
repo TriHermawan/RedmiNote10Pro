@@ -499,16 +499,20 @@ Architecture: `arm64`.
 
 |  | Android 11 | Android 12 | Android 13 | Android 14 | Android 15 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|MindTheGapps| - | - | [Download](https://github.com/MindTheGapps/13.0.0-arm64/releases) | [Download](https://github.com/MindTheGapps/14.0.0-arm64/releases) | [Download](https://github.com/MindTheGapps/15.0.0-arm64/releases) |
-|NikGApps| [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-11/) | [12.0](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12/) - [12.1](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12.1/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-13/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-13/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-14/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-14/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-15/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-15/) |
-|BiTGApps| [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) |
+|**MindTheGapps**| - | - | [Download](https://github.com/MindTheGapps/13.0.0-arm64/releases) | [Download](https://github.com/MindTheGapps/14.0.0-arm64/releases) | [Download](https://github.com/MindTheGapps/15.0.0-arm64/releases) |
+|**NikGApps**| [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-11/) | [12.0](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12/) - [12.1](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12.1/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-13/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-13/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-14/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-14/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-15/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-15/) |
+|**BiTGApps**| [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) |
 
 
 ## Root
 
-- [Magisk](https://github.com/topjohnwu/Magisk/releases) Official by [topjohnwu](https://github.com/topjohnwu)
+- Magisk Official
+  - [Download](https://github.com/topjohnwu/Magisk)
+- Lygisk
+  - [Download](https://github.com/programminghoch10/Lygisk?tab=readme-ov-file)
 - KernelSU-Next:
   - [Ventur's Playground](https://t.me/venturplayground)
+  - [KernelSU Next Manager](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.8/KernelSU_Next_v1.0.8_12701-release.apk) `.apk`
 
 ## **Play Integrity Fix**
 This module tries to fix Play Integrity and SafetyNet verdicts to get a valid attestation.
