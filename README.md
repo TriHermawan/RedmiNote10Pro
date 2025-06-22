@@ -485,8 +485,6 @@ Region   : India
   
   </details>
 
-- **Install LineageOS via Sideload**
-  - [Read](./docs/install-los-ID.md)
 
 
 ## LineageOS (Official)
