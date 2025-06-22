@@ -706,6 +706,7 @@ Redmi Note 10 Pro / Max
   * Done
  
  - Check/Test MD5 hash [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid&feature=related_apps) | [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en&gl=US) | [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)
+ - [Collection of Various Root Detection Apps for Android](https://github.com/rushiranpise/detection#collection-of-various-root-detection-apps-for-android)
 
 </details>
 
