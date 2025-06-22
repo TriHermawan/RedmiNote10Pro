@@ -486,10 +486,14 @@ Region   : India
   </details>
 
 
-
 ## LineageOS (Official)
 
-- [Read](docs/install-los-ID.md)
+**LineageOS Android Distribution**
+
+
+A free and open-source operating system for various devices, based on the Android mobile platform.
+
+- [**Read for installation**](docs/install-los-ID.md)
 
 ## GApps (Google Apps) 
 
