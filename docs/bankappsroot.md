@@ -129,7 +129,7 @@ Root
 
  
 ---
-[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro/tree/main?tab=readme-ov-file#run-bank-app-on-android-root-with-kernelsu-next)
+[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro/tree/main?tab=readme-ov-file#run-bank-app-on-android-root)
 
 
  
