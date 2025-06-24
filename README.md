@@ -323,10 +323,10 @@ Redmi Note 10 Pro / Pro Max India
 ### Steps to Relock the Bootloader
 
 1. Install Official MIUI Fastboot ROM:
-   - [Download](./README.md#download-miui-official-roms) the **fastboot** version of MIUI ROM for your device (`.tgz` format). Use this to ensure your system is clean and official.
+   - [Download](#download-miui-official-roms) the **fastboot** version of MIUI ROM for your device (`.tgz` format). Use this to ensure your system is clean and official.
    - Extract file `.tgz`
 
-2. [Download](./README.md#miflash-tool) and Install Mi Flash Tool
+2. [Download](#miflash-tool) and Install Mi Flash Tool
 
 3. Enter Fastboot Mode:
    - Power off your phone.
