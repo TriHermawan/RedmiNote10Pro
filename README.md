@@ -501,7 +501,9 @@ Architecture: `arm64`.
 ## Root
 
 - Magisk Official
-  - [Download](https://github.com/topjohnwu/Magisk)
+  - Stable  : [29.0](https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk) `.apk`
+  - Beta    : [29.0](https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk) `.apk`
+  - Canary  : [b1dc47a0](https://github.com/topjohnwu/Magisk/releases/download/canary-29001/app-release.apk) `.apk`
 - Lygisk
   - [Download](https://github.com/programminghoch10/Lygisk?tab=readme-ov-file)
 - KernelSU-Next:
