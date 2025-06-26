@@ -34,8 +34,8 @@ Root
 
 ### Required Modules:
 
-- [ReZygisk](https://github.com/PerformanC/ReZygisk/releases/download/v1.0.0-rc.2/ReZygisk-v1.0.0-rc.2-release.zip) (LineageOS) | [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.2.8/Zygisk-Next-1.2.8-512-4b5d6ad-release.zip) (PixelOS)
-- [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/latest) (LineageOS) | [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases) (PixelOS)
+- [ReZygisk](https://github.com/PerformanC/ReZygisk/releases/download/v1.0.0-rc.2/ReZygisk-v1.0.0-rc.2-release.zip) 
+- [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/latest)
 - [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/latest)
 
