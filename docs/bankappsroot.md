@@ -25,12 +25,6 @@ Root
 - [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.7/KernelSU_Next_v1.0.7_12602-release.apk) `.apk`
 <!-- - [Magisk](https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk) -->
 
-### Root Detection Apps
-
-| App Name | Link |
-|-|-|
-| Momo | [Download](https://t.me/faultx003/140)
-| KeyAttestation (forked) | [Download](https://github.com/chiteroman/KeyAttestation/releases)
 
 ### Required Modules:
 
@@ -57,7 +51,7 @@ Root
 - [Integrity-Box](https://t.me/MeowRedirect/690)
 -->
 
-### Step
+### Step Installation
 
 > [!Note]
 > If you want (MEETS STRONG INTEGRITY) find a `keybox.xml` that has not been revoked. import `keybox.xml` in TrickyStore > Set Custom Keybox > find the `keybox.xml` that you got > save.
@@ -126,6 +120,13 @@ Root
   <summary>Screenshot</summary>
   <img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071800_Key%20Attestation.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071823_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-135213_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071856_Google%20Play%20Store.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-071926_Google%20Play%20Store.png" alt="" width="50%" height="auto"><img src="https://github.com/TriHermawan/RedmiNote10Pro/blob/main/assets/bankapps/Screenshot_20250520-134912_Trebuchet.png" alt="" width="50%" height="auto">
 </details> -->
+
+### Root Detection Apps (Optional)
+
+| App Name | Link |
+|-|-|
+| Momo | [Download](https://t.me/faultx003/140)
+| KeyAttestation (forked) | [Download](https://github.com/chiteroman/KeyAttestation/releases)
 
  
 ---
