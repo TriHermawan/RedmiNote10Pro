@@ -502,7 +502,7 @@ Architecture: `arm64`.
 
 - Magisk Official
   - Stable  : [29.0](https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk) `.apk`
-  - Beta    : [30.0](https://github.com/topjohnwu/Magisk/releases/download/v30.0/Magisk-v30.0.apk) `.apk`
+  - Beta    : [30.1](https://github.com/topjohnwu/Magisk/releases/download/v30.1/Magisk-v30.1.apk) `.apk`
 - Lygisk
   - [Download](https://github.com/programminghoch10/Lygisk?tab=readme-ov-file)
 - KernelSU-Next:
