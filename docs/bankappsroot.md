@@ -22,7 +22,7 @@ codename : sweet
 | PixelOS OFFICIAL | 15 | [Vantom KSU Next](https://t.me/venturplayground) |
 
 Root
-- [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.7/KernelSU_Next_v1.0.7_12602-release.apk) `.apk`
+- [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.8/KernelSU_Next_v1.0.8_12701-release.apk) `.apk`
 <!-- - [Magisk](https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk) -->
 
 
