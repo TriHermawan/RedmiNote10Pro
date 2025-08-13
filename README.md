@@ -537,7 +537,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 | Corvus OS | Official (Discontinued) | - | - | - |
 | crDroid | Official | [Pranav Vashi](https://t.me/neobuddy89) | [Telegram](http://t.me/crdroid_sweet) | [Download](https://crdroid.net/downloads#sweet) |
 | dotOS | Official | [Adarsh Grewal](https://t.me/grewal) | [XDA](https://xdaforums.com/t/rom-official-dotos-android-11-sweet.4271097/) | [Download](https://www.droidontime.com/devices/sweet) |
-| EvolutionX | Official | [zaid khan](https://t.me/zaidkhan0997) | [Telegram](https://t.me/RedmiNote10ProChannel/2227) - [XDA](https://xdaforums.com/t/rom-14-0_r67-sweet-official-evolution-x-16-11-24.4395847/) | [Download](https://evolution-x.org/downloads/sweet) - [SF](https://sourceforge.net/projects/evolution-x/files/sweet/) |
+| EvolutionX | Official | therealmharc | [Telegram](https://t.me/donjohanliebert_sg) - ~~[XDA](https://xdaforums.com/t/rom-14-0_r67-sweet-official-evolution-x-16-11-24.4395847/)~~ | [Download](https://evolution-x.org/devices/sweet) - [SF (archive)](https://sourceforge.net/projects/evolution-x/files/sweet/) |
 | HavocOS | Official (Discontinued) | - | - | [Download-archive](https://t.me/faultx003/128) |
 | **LineageOS** | **Official** | [aryan](https://t.me/aryannn999) & [Daniel](https://t.me/daniml3) | [Telegram](https://t.me/lineagesweet) - [XDA](https://xdaforums.com/t/rom-15-official-lineageos-22-for-redmi-note-10-pro-redmi-note-10-pro-max.4713978/) | [Download](https://download.lineageos.org/devices/sweet/builds) |
 | LineageOS MicroG | - | - | - | [Download](https://download.lineage.microg.org/sweet/) |
