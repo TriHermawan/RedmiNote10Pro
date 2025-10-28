@@ -1,10 +1,9 @@
-
-![](assets/fx-sweet.png)
-
 > [!Caution]
 > I am not responsible for anything happened to your device do at your own risk!
 >
 > [`FaultX`](https://t.me/faultx003)
+
+![](assets/fx-sweet.png)
 
 # Xiaomi Redmi Note 10 Pro (sweet)
 Released March 2021
