@@ -1,3 +1,4 @@
+![](dl-miui.png)
 ## Download MIUI Official ROMs
 
 ```
@@ -153,3 +154,7 @@ Redmi Note 10 Pro / Pro Max India
 |`V12.5.10.0.RKFINXM`| INDIA | STABLE | 11 | Fastboot `(.tgz)` | 3.7 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.10.0.RKFINXM/sweetin_in_global_images_V12.5.10.0.RKFINXM_20220106.0000.00_11.0_in_8883f86f8f.tgz) | - |
 
 </details>
+
+
+---
+[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro?tab=readme-ov-file#table-of-contents)
