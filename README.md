@@ -3,7 +3,7 @@
 >
 > [`FaultX`](https://t.me/faultx003)
 
-![](assets/fx-sweet.png)
+![](assets/fx-sweet1.png)
 
 # Xiaomi Redmi Note 10 Pro (sweet)
 Released March 2021
