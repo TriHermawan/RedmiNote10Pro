@@ -6,12 +6,14 @@ an experience similar to Google Pixel phones with
 numerous performance enhancements and a small
 amount of useful additional features.
 
-
-- Device: Redmi Note 10 Pro
-- Codename: ``sweet / sweetin``
-- Maintainers: [Aryan](https://github.com/basamaryan)
-- Group Support: [Telegram](https://t.me/Aryannn999)
-- Support PixelOS: [Paypal](https://paypal.me/whyredfire)
+```
+Device   : Redmi Note 10 Pro / Pro Max
+Codename : sweet / sweetin
+-------------------------------------------------------
+Maintainers     : Aryan (https://github.com/basamaryan)
+Group Support   : Telegram (https://t.me/Aryannn999)
+Support PixelOS : Paypal (https://paypal.me/whyredfire)
+```
 
 ---
 
