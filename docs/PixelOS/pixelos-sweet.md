@@ -16,7 +16,7 @@ amount of useful additional features.
 ---
 
 ### Custom Recovery
-- **OrangeFox Recovery R11.1_7** ``EROFSCompression`` - [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip)
+- **OrangeFox Recovery** ``R11.1_7`` **EROFSCompression** - [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip)
 
 ### Firmware Only
 
