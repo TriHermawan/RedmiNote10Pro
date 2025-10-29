@@ -2,10 +2,14 @@
 # LineageOS
 [**LineageOS**](https://lineageos.org/) A free and open-source operating system for various devices, based on the Android mobile platform.
 
-- Device: [Redmi Note 10 Pro](https://wiki.lineageos.org/devices/sweet/)
-- Codename: ``sweet / sweetin``
-- Maintainers: [Aryan](https://github.com/basamaryan) & danielml3
-- Group Support: [Telegram](https://t.me/Aryannn999)
+```
+Device   : Redmi Note 10 Pro / Pro Max
+Codename : sweet / sweetin
+----------------------------------------------------------------------
+Maintainers       : Aryan & danielml3
+Group Support     : Telegram (https://t.me/lineagesweet)
+Support LineageOS : Paypal (https://www.paypal.com/paypalme/LineageOS)
+```
 
 ---
 
