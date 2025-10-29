@@ -16,7 +16,21 @@ amount of useful additional features.
 ---
 
 ### Custom Recovery
-- OrangeFox Recovery R11.1_7 ``EROFSCompression`` - [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip)
+- **OrangeFox Recovery R11.1_7** ``EROFSCompression`` - [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip)
+
+### Firmware Only
+
+**Redmi Note 10 Pro**
+| Region | Version | Link |
+| :-: | :-: | :-: |
+| Global | ``V14.0.8.0.TKFMIXM`` | [**Download**](https://cloud03.faultx.workers.dev/0:/Firmware/Firmware%20Only%20(FW)/Global%20(MI)/14.0.8/fw_sweet_miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip?a=view)
+| EEA | ``V14.0.9.0.TKFEUXM`` | [**Download**](https://cloud03.faultx.workers.dev/0:/Firmware/Firmware%20Only%20(FW)/Europe%20(EU)/14.0.9/fw_sweet_miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip?a=view)
+| Indonesia | ``V14.0.2.0.TKFIDXM`` | [**Download**](https://cloud03.faultx.workers.dev/0:/Firmware/Firmware%20Only%20(FW)/Indonesia%20(ID)/14.0.2/fw_sweet_miui_SWEETIDGlobal_V14.0.2.0.TKFIDXM_df828d33c5_13.0.zip?a=view)
+
+**Redmi Note 10 Pro / Pro Max (India)**
+| Region | Version | Link |
+| :-: | :-: | :-: |
+|India|``V14.0.1.0.TKFINXM``|[**Download**](https://xmfirmwareupdater.com/firmware/sweetin/stable/V14.0.1.0.TKFINXM/)
 
 ---
 
@@ -59,3 +73,46 @@ amount of useful additional features.
 
 [Old version - Download ➜](https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/)
 
+---
+
+## Installation Guide
+
+### Flash with Orangefox (Clean flash)
+- Download **OrangeFox Recovery R11.1_7** ``EROFSCompression`` - [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip)
+- Reboot the device to **recovery**
+- Flash **OrangeFox Recovery R11.1_7**
+- Reboot to Recovery
+- Flash Firmware Only (Optional)
+- Flash PixelOS ROM ``.zip``
+- Format Data **"Yes"**
+- Reboot and voila!
+
+### Flash with Orangefox (Dirty flash / Update)
+- Reboot the device to **recovery**
+- Flash PixelOS ROM ``.zip``
+- Reboot and voila!
+
+### Clean flash (coming from a different ROM)
+Clean flash involves formatting data which means you will be loosing data stored in the internal storage of your device, data in SD Card should not be affected. I will not be responsible for any loss of data.
+
+- Download ROM and recovery files to your computer
+- Reboot the device to bootloader **(Fastboot Mode)**
+- Flash the recovery by running ``fastboot flash recovery <path/to/recovery.img>`` in terminal/CMD
+- Reboot to recovery by holding **volume up + power button**
+- Go to **Advanced > Enable ADB Sideload**
+- Flash the latest MIUI 14 firmware for your region through ADB sideload by running ``adb sideload <path/to/firmware.zip>``
+- Flash the ROM through ADB sideload by running ``adb sideload <path/to/rom.zip>`` in terminal/CMD
+- Go to **Main menu > Wipe > Format Data > Type "yes" and confirm**
+- Reboot and voila!
+
+### Dirty Flash / Update
+There will be no loss of data if everything goes well. Keep backups incase of any mishap. I will not be responsible for any loss of data.
+
+- Download ROM file to your computer
+- Reboot the device to **recovery**
+- On your phone [which is in recovery mode], go to **Advanced > Enable ADB Sideload**
+- Flash the ROM through ADB sideload by running ``adb sideload <path/to/rom.zip>`` in terminal/CMD
+- Reboot and voila!
+
+---
+[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro?tab=readme-ov-file#table-of-contents)
