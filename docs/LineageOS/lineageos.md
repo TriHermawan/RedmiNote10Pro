@@ -44,21 +44,31 @@
     - Open CMD or Terminal on your PC and connect your phone via USB.
 4. **Flash Recovery**
     - Flash recovery by typing:
-       - ```fastboot flash recovery recovery.img```
+       - ```
+         fastboot flash recovery recovery.img
+         ```
 5. **Reboot To Recovery**
     - Reboot into Recovery typing:
-       - ```fastboot reboot recovery```
+       - ```
+         fastboot reboot recovery
+         ```
 6. **Format Data**
     - Tap Factory Reset, then Format data / factory reset and continue with the formatting process. This will remove encryption and delete all files stored in the internal storage, as well as format your cache partition (if you have one).
 7. **Flash Firmware** (_Optional_)
     - (_If you were previously on the latest version of MIUI 14 stock ROM, there is no need to flash the firmware_). 
     - In LineageOS Recovery select “Apply Update”, then “Apply from ADB” to begin sideload.
-      - ```adb -d sideload firmware.zip```
+      - ```
+        adb -d sideload firmware.zip
+        ```
 8. **Install LineageOS ROM**
-    - ```adb -d sideload lineage-23.0-xxxxxxxx-nightly-sweet-signed.zip ```
+    - ```
+      adb -d sideload lineage-23.0-xxxxxxxx-nightly-sweet-signed.zip
+      ```
 9. **Install GApps** (_Optional_)
     - Click Apply Update, then Apply from ADB,
-      - ```adb -d sideload MindTheGapps-16.0.0-arm64-xxxxxxxx_xxxxxx.zip```
+      - ```
+        adb -d sideload MindTheGapps-16.0.0-arm64-xxxxxxxx_xxxxxx.zip
+        ```
       When presented with a screen that says **Signature verification failed**, click **Yes**. It is expected as add-ons aren’t signed with LineageOS’s official key!
 10. **Reboot System**
     - Click the back arrow in the top left of the screen, then **“Reboot system now”**.
