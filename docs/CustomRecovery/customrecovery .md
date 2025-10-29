@@ -1,6 +1,9 @@
-# .md
-
-## Custom Recovery
+![](customrecovery.png)
+# Custom Recovery
+```
+Device : Redmi Note 10 Pro / Pro Max
+Codename: sweet / sweetin
+```
 
 | Android Version | Recovery | Maintainer | Link |
 |  :---: |---|---|---|
@@ -10,3 +13,6 @@
 | 12 - 13 | TWRP Unofficial | Aryan | [Download](https://sourceforge.net/projects/twrp-releases/files/Sweet/) |
 | 12 - 13 | OrangeFox Unofficial | Aryan | [Download](https://sourceforge.net/projects/orangefox-releases/files/sweet/) |
 | 14 - 15 | OrangeFox Unofficial | Aryan | [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/) |
+
+---
+[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro?tab=readme-ov-file#table-of-contents)
