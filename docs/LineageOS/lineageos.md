@@ -34,14 +34,13 @@ Support LineageOS : Paypal (https://www.paypal.com/paypalme/LineageOS)
 ## Download 
 - [ROM & Recovery](https://download.lineageos.org/devices/sweet/builds)
 
-## GApps (Google Apps)
-- Android 16 
-  - [MindTheGapps](https://github.com/MindTheGapps/16.0.0-arm64/releases/latest)
-- Android 15 
-  - [MindTheGapps](https://github.com/MindTheGapps/15.0.0-arm64/releases/latest)
-- Android 14
-  - [MindTheGapps](https://github.com/MindTheGapps/14.0.0-arm64/releases/latest)
+## GApps (Google Apps) - MindTheGapps
 
+|Android Version|Link|
+|:---:|:---:|
+|16|[Download](https://github.com/MindTheGapps/16.0.0-arm64/releases/latest)
+|15|[Download](https://github.com/MindTheGapps/15.0.0-arm64/releases/latest)
+|14|[Download](https://github.com/MindTheGapps/14.0.0-arm64/releases/latest)
 
 
 ## Installation Guide
