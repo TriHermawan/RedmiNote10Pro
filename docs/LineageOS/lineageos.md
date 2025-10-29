@@ -82,3 +82,4 @@ Support LineageOS : Paypal (https://www.paypal.com/paypalme/LineageOS)
     - Click the back arrow in the top left of the screen, then **“Reboot system now”**.
 
 ---
+[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro?tab=readme-ov-file#table-of-contents)
