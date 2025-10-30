@@ -37,9 +37,9 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 ---
 
 ### Android 16
-| File Name | Release | Build | MD5 | Link |
-| :-: | :-: | :-: | :-: | :-: |
-| - | - | - | - | - |
+| File Name | Build | MD5 | Link |
+| :-: | :-: | :-: | :-: |
+| - | - | - | - |
 
 
 ### Android 15
